@@ -25,4 +25,4 @@ The Blackbird gateway has been extensively tested to meet local regulations and 
 2. [FCC](https://github.com/lisitsas/test_docs/blob/master/docs/Blackbird/99%20-%20Regions%20and%20certificates/RAK7289CV2H_RAK7289V2H_FCC_Certification.pdf) (USA): The Federal Communications Commission confirms that the device complies with the requirements for operation in the USA.
 3. [RCM](https://github.com/lisitsas/test_docs/blob/master/docs/Blackbird/99%20-%20Regions%20and%20certificates/RAK7289CV2H_RAK7289V2H_RCM_Certification.pdf) (Australia): Regulatory Compliance Mark indicating compliance with Australian and New Zealand regulations.
 
-The Blakbird gateway would be shipped pre-configured to work in the region you selected during the purchase. If you willing to change the region, please contact our support team.
+The Blackbird gateway would be shipped pre-configured to work in the region you selected during the purchase. If you willing to change the region, please contact our support team.

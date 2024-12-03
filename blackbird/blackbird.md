@@ -1,7 +1,9 @@
-# Blackbird
+# Overview
 
 * [Safety and Precautions](1-safety/)
   * [Health Considerations](1-safety/health.md)
+* [Connectivity Options](connectivity.md)
+* [Regions and Certificates](0-regions.md)
 * [Quick Start Guide](2-quick-start-guide/)
   * [Prerequisites](2-quick-start-guide/1-prerequisites.md)
   * [Installation Scenarios](2-quick-start-guide/2-installation-scenarios.md)
@@ -12,8 +14,6 @@
   * [Miner Verification Requirements](2-quick-start-guide/7-verification.md)
   * [Blackbird Reset](2-quick-start-guide/8-reset.md)
   * [Recommendations for Improving Gateway Availability](2-quick-start-guide/9-availability.md)
-* [Connectivity Options](connectivity.md)
-* [Regions and Certificates](0-regions.md)
 
 ## Welcome, Keeper! <a href="#welcome-keeper" id="welcome-keeper"></a>
 
