@@ -12,7 +12,7 @@
      * Chirp Wireless officially supports the SUI Wallet for token withdrawals. Make sure to use a supported wallet to ensure smooth transactions.
      * If your wallet is not officially supported, the transaction might fail or not be processed correctly. In such cases, we recommend switching to an officially supported wallet like the SUI Wallet or contacting Chirp's customer support for further guidance.
    * If the SUI Wallet is not yet installed, follow the installation guide for the Chrome extension available on the SUI Wallet's resource [page](https://blog.sui.io/sui-wallets/).
-   * To add the wallet to the Chirp Wireless platform, follow the instructions provided via [link](https://docs.chirptoken.io/Chirp%20Network/Rewards/).
+   * To add the wallet to the Chirp Wireless platform, follow the instructions provided via [link](sui_wallet.md).
 5. **Confirm the Transaction in SUI Wallet**:
    * A request for transaction confirmation will appear in the SUI Wallet extension.
    * Carefully review the transaction details and click "Confirm" (or the equivalent button) to complete the transfer to your SUI Wallet.

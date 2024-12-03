@@ -28,19 +28,19 @@ Before You Begin: If you haven't set up a wallet on your Ledger device, follow i
 
 Open Sui app on Ledger
 
-[ledger\_open\_sui](https://github.com/lisitsas/test_docs/blob/master/docs/Chirp%20Network/Rewards/Ledger%20Wallet%20and%20Rewards%20Claim/media/ledger_open_sui.webm)
+{% embed url="https://drive.google.com/file/d/1yl-0RYDk7qFC7SyDza7puhEkuz8a82AL/view?usp=drive_link" %}
 
 Claim tokens with Suiet Wallet
 
-[claim\_rewards\_suiet](https://github.com/lisitsas/test_docs/blob/master/docs/Chirp%20Network/Rewards/Ledger%20Wallet%20and%20Rewards%20Claim/media/claim_rewards_suiet.webm)
+{% embed url="https://drive.google.com/file/d/1tS9jkIsJhRjrI9lqgrXGXtRg_l5342ns/view?usp=drive_link" %}
 
 Claim tokens with Sui Wallet
 
-[ledger\_claim\_chirp\_token](https://github.com/lisitsas/test_docs/blob/master/docs/Chirp%20Network/Rewards/Ledger%20Wallet%20and%20Rewards%20Claim/media/ledger_claim_chirp_token.webm)
+{% embed url="https://drive.google.com/file/d/10uPlVhkPsmohuqa6K3Hl65RK49aQJeKE/view?usp=drive_link" %}
 
 Sign the transaction with Ledger
 
-[ledger\_confirm\_transaction](https://github.com/lisitsas/test_docs/blob/master/docs/Chirp%20Network/Rewards/Ledger%20Wallet%20and%20Rewards%20Claim/media/ledger_confirm_transaction.mp4)
+{% embed url="https://drive.google.com/file/d/1S0nmi0gUK5VIM97Q0rr0kfEERNN9mTzo/view?usp=drive_link" %}
 
 ## How to Export a Seed Phrase from Ledger
 

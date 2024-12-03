@@ -4,7 +4,7 @@ To ensure maximum gateway availability, it is necessary to follow a series of re
 
 ## 1. Registration and Verification of the Gateway
 
-The gateway must be registered and verified to ensure Rewards. Read more [here](https://docs.chirptoken.io/Chirp%20Network/Blackbird/Quick%20start%20guide/5-registration)
+The gateway must be registered and verified to ensure Rewards. Read more [here](5-registration.md).
 
 ## 2. Ensuring Quality Internet Connection
 
@@ -32,7 +32,7 @@ The gateway must be registered and verified to ensure Rewards. Read more [here](
 
 ## 5. Additional Measures
 
-* Check the correct installation of antennas. Improperly installed antennas can lead to signal degradation. For more detailed information about antenna installation, you can read [here](https://docs.chirptoken.io/Chirp%20Network/Blackbird/Quick%20start%20guide/2-installation-scenarios/), including an [article](https://docs.chirptoken.io/Chirp%20Network/Blackbird/Quick%20start%20guide/3-placementrewards/) on the importance of antenna placement for signal coverage and crypto rewards.
+* Check the correct installation of antennas. Improperly installed antennas can lead to signal degradation. For more detailed information about antenna installation, you can read [here](2-installation-scenarios.md), including an [article](3-placementrewards.md) on the importance of antenna placement for signal coverage and crypto rewards.
   * Attention! Do not turn on the gateway without antennas, as this will result in the failure of the LoRaWAN module. This will be considered a non-warranty case! The gateway must be connected to the network only with the antennas connected.
   * Never turn on the gateway without antennas; this can lead to transmitter damage.
   * In rural areas, it is recommended to use routers with cellular support and signal amplifiers.

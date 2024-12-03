@@ -74,7 +74,7 @@ After signing in, you will be prompted to name your gateway for your convenience
 
 ## Step Eleven (Enrollment Fee)
 
-Once your Chirp gateway is installed, the next step is to pay the enrollment fee of 4000 data credits ($40). This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services. Please, see[ here](../4-data-credits.md) for additional info.
+Once your Chirp gateway is installed, the next step is to pay the enrollment fee of 4000 data credits ($40). This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services. Please, see [here](../4-data-credits.md) for additional info.
 
 ![](../../.gitbook/assets/12-1.png)
 
