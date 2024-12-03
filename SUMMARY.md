@@ -42,7 +42,7 @@
 * [Long Term Value](tokenomics/longtermvalue.md)
 * [Governance](tokenomics/governance.md)
 
-***
+## 📑 Legal
 
-* [Terms of Use](terms-of-use.md)
-* [Privacy Policy](privacy-policy.md)
+* [Terms of Use](legal/terms-of-use.md)
+* [Privacy Policy](legal/privacy-policy.md)
