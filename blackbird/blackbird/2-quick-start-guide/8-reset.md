@@ -6,7 +6,7 @@ There are three ways to reset the Blackbird LoRaWAN gateway: a simple reboot, a 
 
 The Blackbird LoRaWAN gateway has a hardware reset button, which can be used to perform the following reset actions:
 
-![](../../.gitbook/assets/gw_reset_button.png)
+![](../../../.gitbook/assets/gw_reset_button.png)
 
 1. **Reboot**: To reboot the device, press the reset button momentarily. The device will restart automatically.
 2. **Wi-Fi Password Reset**: To reset the Wi-Fi password to its default value, press and hold the reset button for 5 to 15 seconds. The LED will blink three times as a confirmation that the Wi-Fi password has been reset.
@@ -17,7 +17,7 @@ The Blackbird LoRaWAN gateway has a hardware reset button, which can be used to 
 
 ## Gateway Wisgate UI
 
-![](../../.gitbook/assets/gw_reset_webui.png)
+![](../../../.gitbook/assets/gw_reset_webui.png)
 
 You can also perform a Reboot, a Wi-Fi password reset and a full factory reset through the gateway's Wisgate UI. Follow these steps:
 

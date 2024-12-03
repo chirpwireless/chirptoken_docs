@@ -26,7 +26,7 @@ $CHIRP price responds to network usage trends, leading to a long-term price appr
 
 As the network grows in usage, $CHIRP tokens are removed from circulation and, therefore, the circulating tokens accrue more value. As they grow in value, less tokens need to be removed from circulation, in order to receive the corresponding Access Badges. This is made possible because Access Badges have a predefined price (denominated in USD). The reverse occurs if usage decreases, thus creating a dynamic to bring the price to an equilibrium.
 
-![](../.gitbook/assets/stabilization.png)
+![](../../.gitbook/assets/stabilization.png)
 
 ## Locking-up Rewards to Maximize Earnings
 

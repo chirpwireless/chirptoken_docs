@@ -14,11 +14,11 @@ When powering the hotspot with DC power, ensure correct polarity and stay within
 
 For installation guides:
 
-![](../../.gitbook/assets/qr1.png)
+![](../../../.gitbook/assets/qr1.png)
 
 For surge protection, accessories, etc.:
 
-![](../../.gitbook/assets/qr2.png)
+![](../../../.gitbook/assets/qr2.png)
 
 **Please Note:**
 
@@ -52,19 +52,19 @@ All needed surge protection devices, cables, and antennas can be found in the RA
 
 To assemble the gateway, attach the antennas to the gateway, ensuring that the antenna frequency matches the gateway frequency. As gateway are high-quality, expensive equipment, it is highly recommended to protect them from lightning and static. It is strongly suggested to install type N lightning arresters (male to female) (not included) between the antennas and the gateway and ground the lightning arresters and the gateway.
 
-![](../../.gitbook/assets/20230508_145108.jpg)
+![](../../../.gitbook/assets/20230508_145108.jpg)
 
 ## Step Two (Grounding)
 
 Ground the Lightning Arresters and the gateway with a ground cable.
 
-![](../../.gitbook/assets/20230508_145006.jpg)
+![](../../../.gitbook/assets/20230508_145006.jpg)
 
 ## Step Three (Attach the Antennas)
 
 Attach the antennas, ensuring they match the frequency.
 
-![](../../.gitbook/assets/20230508_125647.jpg)
+![](../../../.gitbook/assets/20230508_125647.jpg)
 
 ## Step Four (Mount the Gateway)
 
@@ -80,7 +80,7 @@ When it comes to mounting the gateway, it's important to adhere to the guideline
 
 For single-family houses, only roof installations are permitted. This ensures optimal coverage and performance for the Chirp Wireless network. Make sure to choose a suitable location on the roof that provides a clear line of sight and minimizes obstructions.
 
-![](../../.gitbook/assets/gateway.jpg) ![](../../.gitbook/assets/roofmount.jpg)
+![](../../../.gitbook/assets/gateway.jpg) ![](../../../.gitbook/assets/roofmount.jpg)
 
 ### Apartment Complex
 
@@ -90,7 +90,7 @@ By following these guidelines, you can ensure the proper installation and functi
 
 For a window mount the following [mount](https://www.wifi-shop24.com/antenna-mount-window-frame-15cm-aluminium) can be used that does not require drilling. (Flat ethernet cable can be used for data and power)
 
-![](../../.gitbook/assets/window.webp)
+![](../../../.gitbook/assets/window.webp)
 
 ## Step Five (Connect the Gateway)
 
@@ -98,7 +98,7 @@ To power up your Blackbird and establish an internet connection, follow these st
 
 If your router supports Power over Ethernet (PoE), (typically marked as follows)
 
-![](../../.gitbook/assets/poe.png)
+![](../../../.gitbook/assets/poe.png)
 
 connecting your gateway is a breeze. You'll only need one network cable (not included) to go from your router to the gateway. Simply connect one end of the network cable to an available LAN port on your router and the other end to the gateway. This setup will provide both internet connectivity and power to your gateway efficiently. Your Blackbird consumes on average 5W of power.
 
@@ -111,16 +111,16 @@ Here's how:
 
 Completely unscrew the PoE plastic gland from the gateway.
 
-![](../../.gitbook/assets/poe1.png)
+![](../../../.gitbook/assets/poe1.png)
 
 Pull the network cable through the plastic gland in the following order. 1. Nut 2. Rubber sealer 3. Male adapter
 
-![](../../.gitbook/assets/poe2.png)
+![](../../../.gitbook/assets/poe2.png)
 
-![](../../.gitbook/assets/poe3.png)
+![](../../../.gitbook/assets/poe3.png)
 
 For extra protection cover with electrical tape
 
-![](../../.gitbook/assets/poe4.png)
+![](../../../.gitbook/assets/poe4.png)
 
 Once connected you should see the LED lights on the bottom of the gateway turn on.

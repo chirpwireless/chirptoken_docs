@@ -12,7 +12,7 @@ It is crucial to complete all the steps for Blackbird registration. For detailed
 
 Log in to the dashboard, navigate to the left menu, then go to Gateways. From there, choose the gateway you want by clicking on it. Once you see a green lightning symbol at the top left corner, it indicates that your miner is online. Furthermore, ensure that your miner is actively transmitting and receiving packets, as shown in the provided illustration.
 
-![](../../.gitbook/assets/gw_online.png)
+![](../../../.gitbook/assets/gw_online.png)
 
 ## 4. Connect a LoRaWAN Device
 
@@ -20,10 +20,10 @@ Ensure that at least one LoRaWAN device is connected to the network through the 
 
 When you tap on an event in the device log, you'll find detailed technical information that was received from your device. This includes the name of the miner that processed that specific event (gateway parameter).
 
-![](../../.gitbook/assets/device_online.png)
+![](../../../.gitbook/assets/device_online.png)
 
 ## 5. Connect a Reward Wallet
 
-For receive the rewards connect your Sui wallet to Chirp platform. You can find it at Billing -> Rewards wallet page. You can find the guide [here](../../chirp-network/rewards/sui_wallet.md).
+For receive the rewards connect your Sui wallet to Chirp platform. You can find it at Billing -> Rewards wallet page. You can find the guide [here](../../../chirp-network/chirp-network/rewards/sui_wallet.md).
 
-![](../../.gitbook/assets/wallet.png)
+![](../../../.gitbook/assets/wallet.png)

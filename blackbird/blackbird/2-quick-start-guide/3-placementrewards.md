@@ -10,7 +10,7 @@ A gateway, in the context of network coverage, stands as a robust telecom-grade 
 
 The essence of gateway positioning is to ensure a clear and unhindered signal path. As illustrated, the signal's trajectory encounters obstacles – trees, buildings, mountains, and the like – which can obstruct, weaken, or entirely block its course. Proper placement aims to minimize these disruptions and maximize signal transmission.
 
-![](../../.gitbook/assets/signalstrength.png)
+![](../../../.gitbook/assets/signalstrength.png)
 
 ## Wall Placement and Signal Limitations
 

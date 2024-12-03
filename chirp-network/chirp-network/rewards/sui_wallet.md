@@ -8,37 +8,37 @@ Please bear in mind that currently Chirp platform supports these 4 Google chrome
 
 To create a reward wallet, please install one of 4 Google Chrome extension wallets for Sui blockchain (i.e. Sui wallet). After installation is complete, create your personal Sui wallet. You can create it with your Google account, but for improved security we recommend using a method with the “passphrase”.
 
-![](<../../.gitbook/assets/1 (3).png>)
+![](<../../../.gitbook/assets/1 (3).png>)
 
 When wallet is created check if the Mainnet is selected
 
-![](../../.gitbook/assets/1_1.png)
+![](../../../.gitbook/assets/1_1.png)
 
 ## Sui Wallet Connection to Chirp
 
 When your Sui wallet is set up please navigate to [https://app.chirpwireless.io](https://app.chirpwireless.io). Sign up if you are new to Chirp or sign in into your Chirp account. After, go to the Settings section in the menu, choose Rewards wallet and click on Connect wallet button.
 
-![](<../../.gitbook/assets/2 (2).png>)
+![](<../../../.gitbook/assets/2 (2).png>)
 
 Select a wallet extension you have installed.
 
-![](<../../.gitbook/assets/3 (3).png>)
+![](<../../../.gitbook/assets/3 (3).png>)
 
 Next you need to choose the correct wallet address and click Connect.
 
-![](<../../.gitbook/assets/4 (3).png>)
+![](<../../../.gitbook/assets/4 (3).png>)
 
 Confirm wallet by clicking the Save wallet address button.
 
-![](<../../.gitbook/assets/5 (3).png>)
+![](<../../../.gitbook/assets/5 (3).png>)
 
 To verify a reward wallet, you need to sign message with your wallet, click Sign.
 
-![](<../../.gitbook/assets/6 (3).png>)
+![](<../../../.gitbook/assets/6 (3).png>)
 
 After that your rewards wallet is set and verified.
 
-![](<../../.gitbook/assets/7 (3).png>)
+![](<../../../.gitbook/assets/7 (3).png>)
 
 ## Adding SUI to Your Wallet
 

@@ -8,18 +8,18 @@ To add a device to the network, go to the Dashboard and select the "Add Device" 
 2. Enter the device’s manufacturer and model as indicated on the box.
 3. Enter the `DevEUI` and `AppKey` listed on the device's box, and save them for future use. This information may be needed if you have to reconfigure the device, so it's recommended to record the sensor’s name or model and its location (e.g., "Temperature Sensor — Main Office, DevEUI xxxx, AppKey xxxx") in your documentation. Although this information is stored in the device, recovering it may require technical skills and depends on the manufacturer.
 
-![](../../.gitbook/assets/p5-1.png)
+![](../../../.gitbook/assets/p5-1.png)
 
-![](../../.gitbook/assets/p5-2.png)
+![](../../../.gitbook/assets/p5-2.png)
 
-![](../../.gitbook/assets/p5-3-1.png)
+![](../../../.gitbook/assets/p5-3-1.png)
 
-![](../../.gitbook/assets/p5-3-2.png)
+![](../../../.gitbook/assets/p5-3-2.png)
 
 Add additional information, if necessary.
 
-![](../../.gitbook/assets/p5-4.png)
+![](../../../.gitbook/assets/p5-4.png)
 
 Your device added sucessfully.
 
-![](../../.gitbook/assets/p5-5.png)
+![](../../../.gitbook/assets/p5-5.png)
