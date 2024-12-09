@@ -46,3 +46,8 @@
 
 * [Terms of Use](legal/terms-of-use.md)
 * [Privacy Policy](legal/privacy-policy.md)
+
+## ❓ FAQ
+
+* [Official Links](faq/official-links.md)
+* [Help and FAQ](faq/help-and-faq.md)
