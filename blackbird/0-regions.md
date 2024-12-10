@@ -21,8 +21,16 @@ The Blackbird gateway is designed to operate seamlessly across multiple regions,
 
 The Blackbird gateway has been extensively tested to meet local regulations and industry standards. The device has the following certifications:
 
-1. [CE](https://github.com/lisitsas/test_docs/blob/master/docs/Blackbird/99%20-%20Regions%20and%20certificates/RAK7289CV2H_RAK7289V2H_CE_Certification.pdf) (Europe): Conformité Européene, indicating compliance with European Union directives and standards.
-2. [FCC](https://github.com/lisitsas/test_docs/blob/master/docs/Blackbird/99%20-%20Regions%20and%20certificates/RAK7289CV2H_RAK7289V2H_FCC_Certification.pdf) (USA): The Federal Communications Commission confirms that the device complies with the requirements for operation in the USA.
-3. [RCM](https://github.com/lisitsas/test_docs/blob/master/docs/Blackbird/99%20-%20Regions%20and%20certificates/RAK7289CV2H_RAK7289V2H_RCM_Certification.pdf) (Australia): Regulatory Compliance Mark indicating compliance with Australian and New Zealand regulations.
+* CE (Europe): Conformité Européene, indicating compliance with European Union directives and standards.
+
+{% file src="../.gitbook/assets/RAK7289CV2H_RAK7289V2H_CE_Certification.pdf" %}
+
+* FCC (USA): The Federal Communications Commission confirms that the device complies with the requirements for operation in the USA.
+
+{% file src="../.gitbook/assets/RAK7289CV2H_RAK7289V2H_FCC_Certification.pdf" %}
+
+* RCM (Australia): Regulatory Compliance Mark indicating compliance with Australian and New Zealand regulations.
+
+{% file src="../.gitbook/assets/RAK7289CV2H_RAK7289V2H_RCM_Certification.pdf" %}
 
 The Blackbird gateway would be shipped pre-configured to work in the region you selected during the purchase. If you willing to change the region, please contact our support team.
