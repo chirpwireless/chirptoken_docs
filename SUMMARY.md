@@ -37,7 +37,6 @@
 ## 🪙 Tokenomics
 
 * [Stakeholders](tokenomics/stakeholders.md)
-* [Token Overview](tokenomics/tokenoverview.md)
 * [Token Emissions](tokenomics/tokenemissions.md)
 * [Long Term Value](tokenomics/longtermvalue.md)
 * [Governance](tokenomics/governance.md)
