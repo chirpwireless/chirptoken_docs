@@ -2,19 +2,33 @@
 
 ## Token
 
-[Token Contract](https://suiscan.xyz/mainnet/coin/0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP)
+Chirp Token Contract - [https://suiscan.xyz/mainnet/coin/0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP](https://suiscan.xyz/mainnet/coin/0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP)
+
+
+
+## Listings
+
+Gate.io - [https://www.gate.io/signup/VLIWXQHCUG?ref\_type=102](https://www.gate.io/signup/VLIWXQHCUG?ref_type=102)
+
+KuCoin - [https://www.kucoin.com/r/rf/UT9S3G2X](https://www.kucoin.com/r/rf/UT9S3G2X)
+
+MEXC - [https://promote.mexc.com/r/qK81psRc](https://promote.mexc.com/r/qK81psRc)
+
+
 
 ## NFT
 
-[TradePort Skyward Soarer NFT Collection](https://www.tradeport.xyz/sui/collection/skyward-soarer?bottomTab=trades\&tab=items)
+TradePort Skyward Soarer NFT Collection - [https://www.tradeport.xyz/sui/collection/skyward-soarer?bottomTab=trades\&tab=items](https://www.tradeport.xyz/sui/collection/skyward-soarer?bottomTab=trades\&tab=items)
+
+
 
 ## Community
 
-[Medium](https://chirpiot.medium.com/)
+Medium - [https://chirpiot.medium.com](https://chirpiot.medium.com/)
 
-[Twitter](https://x.com/ChirpDeWi)
+Twitter - [https://x.com/ChirpDeWi](https://x.com/ChirpDeWi)
 
-[Discord](https://discord.com/invite/zxAaVQgFvs)
+Discord - [https://discord.com/invite/zxAaVQgFvs](https://discord.com/invite/zxAaVQgFvs)
 
-[Telegram](https://t.me/ChirpIoT)
+Telegram - [https://t.me/ChirpIoT](https://t.me/ChirpIoT)
 

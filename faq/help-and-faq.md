@@ -150,6 +150,14 @@ Gateways come with a standard warranty, covering manufacturing defects. Refer to
 
 <details>
 
+<summary>What wallet/extension should I use?</summary>
+
+For the best experience, we highly recommend using the Suiet wallet or the Sui wallet created via the seed phrase method for any operations on the Chirp platform.
+
+</details>
+
+<details>
+
 <summary>What should I do if my wallet is stolen?</summary>
 
 If your wallet is stolen, immediately secure your funds by restoring access using your recovery phrase or private key. Never share this information with anyone. Follow the detailed security instructions provided here:
@@ -206,7 +214,45 @@ Check the following:
 
 </details>
 
+<details>
+
+<summary>How do I disconnect/change the wallet linked to the platform?</summary>
+
+To disconnect a wallet:
+
+1. Connect to the platform with your old wallet.
+2. Click "Disconnect" in the "Rewards Wallet" section.
+3. Connect your new wallet.
+
+⚠ Important: Without access to the old wallet, you won’t be able to unlink it. In this case, you will need to create a new account.
+
+</details>
+
+<details>
+
+<summary>The "Disconnect" button is inactive. What should I do?</summary>
+
+To activate the disconnect button, ensure you’re connected with the wallet you’re trying to unlink.
+
+</details>
+
+<details>
+
+<summary>What is the Circulating Supply and Total Supply of the $CHIRP token?</summary>
+
+Circulating Supply at TGE: 37.3 million, Total Supply: 300 million
+
+</details>
+
 ## User Account Management
+
+<details>
+
+<summary>I want to register an account, but I’m not receiving the email. What should I do?</summary>
+
+If you don’t receive the email, try requesting the link again after 24 hours.
+
+</details>
 
 <details>
 
@@ -262,6 +308,120 @@ If you're having issues adding a wallet:
 To delete your account, contact Chirp support or follow the termination process outlined here:
 
 * [Account Termination](https://test-docs.chirptoken.io/legal/terms-of-use#section-10-termination).
+
+</details>
+
+## Kage
+
+<details>
+
+<summary>How do I connect my wallet?</summary>
+
+Sui wallet connection is possible only through the desktop version by accessing: https://app.chirpwireless.io/settings/rewards-wallet
+
+Guide: [https://docs.chirptoken.io/chirp-network/rewards/kage](https://docs.chirptoken.io/chirp-network/rewards/kage)
+
+</details>
+
+<details>
+
+<summary>I connected my wallet, but it still shows "Connect Wallet" and "Verify Rewards Wallet." What should I do?</summary>
+
+After connecting your wallet, you need to sign a transaction in your wallet to confirm its binding to the site.
+
+Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/settings/rewards-wallet](https://app.chirpwireless.io/settings/rewards-wallet)
+
+Guide: [https://docs.chirptoken.io/chirp-network/rewards/kage](https://docs.chirptoken.io/chirp-network/rewards/kage)
+
+</details>
+
+<details>
+
+<summary>Why aren’t Data Chips being counted or why are they being counted slowly?</summary>
+
+* Reason 1: Someone nearby may have scanned the networks, or the signal quality of these networks was poor. Not all networks (100%) can be counted, especially if they’ve been scanned in the last 24 hours.
+
+- Reason 2: Scanning the same networks within a 24-hour period won’t add extra Data Chips. The system filters out duplicate networks to ensure accurate data collection.
+
+</details>
+
+<details>
+
+<summary>My Data Chips disappeared or reset. Why?</summary>
+
+Data Chips were not reset for anyone. This issue may occur if your internet connection is unstable, preventing the app from updating your Data Chips information.
+
+</details>
+
+<details>
+
+<summary>Why can’t I see my points in the Chirp browser?</summary>
+
+Data Chips are only displayed in the app. The website dashboard is designed for Blackbird miner owners, not for Kage users.
+
+</details>
+
+<details>
+
+<summary>Why can’t I see Data Chips on the website dashboard?</summary>
+
+Data Chips are only displayed in the app. The dashboard is intended for Blackbird miner owners, not Kage users.
+
+</details>
+
+<details>
+
+<summary>Where can I enter the referral code of the person who invited me?</summary>
+
+You can enter a referral code when you first launch the Kage app. If you’re already logged in, you won’t be able to enter the code.
+
+</details>
+
+<details>
+
+<summary>Why weren’t my referrals counted?</summary>
+
+There are several possible reasons:
+
+1. The person didn’t enter the referral code during registration.
+2. They entered the code incorrectly.
+3. They entered the code but didn’t click the "Confirm" button and instead clicked "Skip."
+
+</details>
+
+<details>
+
+<summary>It seems like my app isn’t working or detecting networks. What should I do?</summary>
+
+Try the following:
+
+1. Reinstall the app completely.
+2. Reboot your phone.
+3. Scan for networks in a different location, such as walking around the city.
+
+</details>
+
+<details>
+
+<summary>The app prompts me to update, but there’s no update button on Play Market. What should I do?</summary>
+
+Delete the app and reinstall it. This should resolve the issue.
+
+</details>
+
+<details>
+
+<summary>How do I know if I am eligible and what rewards I’ll receive?</summary>
+
+Check this post for details about Kage eligibility, rewards, and more: [https://t.me/ChirpIoT/14260/99464](https://t.me/ChirpIoT/14260/99464)
+
+</details>
+
+<details>
+
+<summary>When will rewards for Kage, Leaderboard Campaign, Zealy, and Tropee be distributed?</summary>
+
+We will make an announcement soon with details about which campaigns and the exact timeline for rewards distribution. Stay tuned!
 
 </details>
 
