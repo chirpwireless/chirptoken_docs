@@ -13,7 +13,7 @@
   * [Kage - Wallet and Rewards Claim](chirp-network/rewards/kage.md)
   * [Ledger Wallet and Rewards Claim](chirp-network/rewards/ledger.md)
 
-## 🐦‍⬛ Blackbird
+## ⛏️ Blackbird
 
 * [Overview](blackbird/blackbird.md)
 * [Safety and Precautions](blackbird/1-safety/README.md)
@@ -34,7 +34,7 @@
 * [Data Credits](blackbird/4-data-credits.md)
 * [Sim Card](blackbird/simcard.md)
 
-## 🪙 Tokenomics
+## 💰 Tokenomics
 
 * [Stakeholders](tokenomics/stakeholders.md)
 * [Token Emissions](tokenomics/tokenemissions.md)

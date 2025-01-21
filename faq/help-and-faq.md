@@ -76,7 +76,8 @@ Availability may be affected by factors such as:
 * Internet connectivity issues.
 * Power interruptions.
 * Environmental conditions. Learn how to optimize availability here:
-* [Availability Insights](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/9-availability#id-7.-accounting-for-external-factors).
+
+- [Availability Insights](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/9-availability#id-7.-accounting-for-external-factors).
 
 </details>
 
@@ -221,7 +222,7 @@ Check the following:
 To disconnect a wallet:
 
 1. Connect to the platform with your old wallet.
-2. Click "Disconnect" in the "Rewards Wallet" section.
+2. Click "Disconnect" in the "[Rewards Wallet](https://app.chirpwireless.io/rewards-wallet)" section.
 3. Connect your new wallet.
 
 ⚠ Important: Without access to the old wallet, you won’t be able to unlink it. In this case, you will need to create a new account.
@@ -241,6 +242,8 @@ To activate the disconnect button, ensure you’re connected with the wallet you
 <summary>What is the Circulating Supply and Total Supply of the $CHIRP token?</summary>
 
 Circulating Supply at TGE: 37.3 million, Total Supply: 300 million
+
+[https://chirptoken.io/explorer/](https://chirptoken.io/explorer/)
 
 </details>
 
@@ -317,7 +320,7 @@ To delete your account, contact Chirp support or follow the termination process 
 
 <summary>How do I connect my wallet?</summary>
 
-Sui wallet connection is possible only through the desktop version by accessing: https://app.chirpwireless.io/settings/rewards-wallet
+Sui wallet connection is possible only through the desktop version by accessing: https[://app.chirpwireless.io/rewards-wallet](https://app.chirpwireless.io/rewards-wallet)
 
 Guide: [https://docs.chirptoken.io/chirp-network/rewards/kage](https://docs.chirptoken.io/chirp-network/rewards/kage)
 
@@ -329,7 +332,7 @@ Guide: [https://docs.chirptoken.io/chirp-network/rewards/kage](https://docs.chir
 
 After connecting your wallet, you need to sign a transaction in your wallet to confirm its binding to the site.
 
-Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/settings/rewards-wallet](https://app.chirpwireless.io/settings/rewards-wallet)
+Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/rewards-wallet](https://app.chirpwireless.io/rewards-wallet)
 
 Guide: [https://docs.chirptoken.io/chirp-network/rewards/kage](https://docs.chirptoken.io/chirp-network/rewards/kage)
 
