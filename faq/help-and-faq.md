@@ -320,7 +320,7 @@ To delete your account, contact Chirp support or follow the termination process 
 
 <summary>How do I connect my wallet?</summary>
 
-Sui wallet connection is possible only through the desktop version by accessing: https[://app.chirpwireless.io/rewards-wallet](https://app.chirpwireless.io/rewards-wallet)
+Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/rewards-wallet](https://app.chirpwireless.io/rewards-wallet)
 
 Guide: [https://docs.chirptoken.io/chirp-network/rewards/kage](https://docs.chirptoken.io/chirp-network/rewards/kage)
 
