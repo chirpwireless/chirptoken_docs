@@ -428,3 +428,6 @@ We will make an announcement soon with details about which campaigns and the exa
 
 </details>
 
+{% hint style="info" %}
+Didn't find the answer to your question? Please, email us at [help@chirpwireless.io](mailto:help@chirpwireless.io)
+{% endhint %}
