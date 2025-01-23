@@ -4,6 +4,10 @@
 
 Chirp Token Contract - [https://suiscan.xyz/mainnet/coin/0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP](https://suiscan.xyz/mainnet/coin/0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP)
 
+CoinMarketCap - [https://coinmarketcap.com/currencies/chirp-network/](https://coinmarketcap.com/currencies/chirp-network/)
+
+Coingecko - [https://www.coingecko.com/en/coins/chirp-token](https://www.coingecko.com/en/coins/chirp-token)
+
 
 
 ## Listings
