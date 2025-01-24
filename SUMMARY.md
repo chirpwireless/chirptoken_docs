@@ -50,3 +50,4 @@
 
 * [Official Links](faq/official-links.md)
 * [Help and FAQ](faq/help-and-faq.md)
+* [Changelog](faq/changelog.md)
