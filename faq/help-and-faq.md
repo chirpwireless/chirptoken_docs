@@ -8,8 +8,8 @@
 
 To connect your gateway to LTE, you'll need to purchase a data plan (using Data Credits) and follow the LTE setup instructions. LTE is ideal for ensuring a stable connection in areas where Wi-Fi or Ethernet may not be available. For more details, refer to:
 
-* [LTE Connectivity Guide](https://test-docs.chirptoken.io/blackbird/connectivity#cellular-connection).
-* [Data Credits and Costs](https://test-docs.chirptoken.io/blackbird/simcard#data-credits).
+* [LTE Connectivity Guide](https://docs.chirptoken.io/blackbird/connectivity#cellular-connection)
+* [Data Credits and Costs](https://docs.chirptoken.io/blackbird/simcard#data-credits)
 
 </details>
 
@@ -17,9 +17,9 @@ To connect your gateway to LTE, you'll need to purchase a data plan (using Data 
 
 <summary>Can I reconnect the gateway to a different account?</summary>
 
-Yes, it’s possible to reconnect your gateway to a different account. To do this, you will need to reset the gateway to its default settings and then follow the setup steps to register it with the new account. Instructions can be found here:
+Yes, it’s possible to reconnect your gateway to a different account. To do this, you will firstly need to proceed gateway's settings and delete the gateway from current account and then log in to the new account and follow the setup steps to register. Instructions can be found here:
 
-* [Reset Guide](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/8-reset).
+* [Blackbird registration](../blackbird/2-quick-start-guide/5-registration.md)
 
 </details>
 
@@ -29,7 +29,7 @@ Yes, it’s possible to reconnect your gateway to a different account. To do thi
 
 Grounding your gateway is essential for safety and equipment longevity, especially in areas prone to electrical surges. Connect the grounding cable securely to the designated port and ensure it’s properly attached to a grounding point. Detailed instructions can be found here:
 
-* [Grounding Instructions](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/4-installation#grounding-and-surge-protection).
+* [Grounding Instructions](https://docs.chirptoken.io/blackbird/2-quick-start-guide/4-installation#grounding-and-surge-protection)
 
 </details>
 
@@ -39,21 +39,23 @@ Grounding your gateway is essential for safety and equipment longevity, especial
 
 Adding a new LoRaWAN device involves the following steps:
 
-1. Access the gateway settings in your dashboard.
-2. Register the device's unique identifier (EUI) and configure the settings.
-3. Confirm the connection is established. Refer to the guide here:
+1. Open the [Devices ](https://app.chirpwireless.io/devices)page and click Add device button
+2. Choose the device's vendor, model, frequency band, device unique identifier (DevEUI), application key (AppKey) and the other parameters.
+3. Confirm the connection is established.&#x20;
 
-* [Adding Devices](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/6-adding-device).
+Refer to the guide here:
+
+* [Adding Device](https://docs.chirptoken.io/blackbird/2-quick-start-guide/6-adding-device)
 
 </details>
 
 <details>
 
-<summary>How can I update firmware? Can I do it myself?</summary>
+<summary>How can I update gateway's firmware?</summary>
 
-Yes, you can update the gateway firmware yourself. Check for updates in the settings menu of the Web UI or dashboard, and follow the provided instructions. Ensure you do not disconnect the gateway during the update. For details, visit:
+Check for firmware version in the [Gateways](https://app.chirpwireless.io/gateways) page and if update is available, open gateway's page and click Update button.&#x20;
 
-* [Firmware Update](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/8-reset#gateway-wisgate-ui).
+Ensure you do not disconnect the gateway power during the update.
 
 </details>
 
@@ -61,9 +63,7 @@ Yes, you can update the gateway firmware yourself. Check for updates in the sett
 
 <summary>Can I use my own SIM card?</summary>
 
-Yes, you can use your own SIM card if it supports the required data plans and LTE bands:
-
-* [SIM Card Guide](https://test-docs.chirptoken.io/blackbird/simcard#top-up-sim-balance).
+Gateway is already has SIM card installed. For using a SIM card, you need to activate it. Please, contact the [support@chirpwireless.io](mailto:support@chirpwireless.io) for assistance
 
 </details>
 
@@ -75,9 +75,11 @@ Availability may be affected by factors such as:
 
 * Internet connectivity issues.
 * Power interruptions.
-* Environmental conditions. Learn how to optimize availability here:
+* Environmental conditions.&#x20;
 
-- [Availability Insights](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/9-availability#id-7.-accounting-for-external-factors).
+Learn how to optimize availability here:
+
+* [Availability Insights](https://docs.chirptoken.io/blackbird/2-quick-start-guide/9-availability#id-7.-accounting-for-external-factors)
 
 </details>
 
@@ -87,9 +89,9 @@ Availability may be affected by factors such as:
 
 <summary>How can I manage the gateway remotely?</summary>
 
-You can manage your gateway remotely through the dashboard or by connecting to it via Wi-Fi. Remote management allows you to monitor and update settings without needing physical access. More information can be found here:
+You can manage your gateway remotely through the Gateway Web UI. Remote management allows you to monitor and update settings without needing physical access. More information can be found here:
 
-* [Gateway Management](https://test-docs.chirptoken.io/blackbird/connectivity#wifi-connection).
+* [Gateway Setup and Configuration](help-and-faq.md#gateway-setup-and-configuration)
 
 </details>
 
@@ -100,10 +102,12 @@ You can manage your gateway remotely through the dashboard or by connecting to i
 If your gateway does not power on:
 
 1. Check the power connection and cables.
-2. Try a hardware reset.
-3. Ensure the power supply is functional. For more help, refer to:
+2. Ensure the power supply is functional.&#x20;
+3. Try a hardware reset.
 
-* [Hardware Reset](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/8-reset#hardware-reset-button).
+For more help, refer to:
+
+* [Hardware Reset](https://docs.chirptoken.io/blackbird/2-quick-start-guide/8-reset#hardware-reset-button)
 
 </details>
 
@@ -113,7 +117,7 @@ If your gateway does not power on:
 
 Yes, third-party gateways can be connected if they are compatible with Chirp’s requirements. Check compatibility before proceeding:
 
-* [Gateway Connectivity](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/9-availability#id-6.-checking-compatibility-with-operators).
+* [Adding Gateways to Chirp Network](https://docs.chirpwireless.io/iot-platform/adding-gateways-to-chirp-network)
 
 </details>
 
@@ -123,7 +127,7 @@ Yes, third-party gateways can be connected if they are compatible with Chirp’s
 
 Yes, you can disable or adjust the LED settings via the Web UI or dashboard:
 
-* [Gateway Settings](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/8-reset#gateway-wisgate-ui).
+* [Gateway Setup and Configuration](help-and-faq.md#gateway-setup-and-configuration)
 
 </details>
 
@@ -133,7 +137,7 @@ Yes, you can disable or adjust the LED settings via the Web UI or dashboard:
 
 If you forget the Web UI password, you can reset it by accessing the gateway’s reset options. Follow these instructions:
 
-* [Password Reset](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/8-reset#gateway-wisgate-ui).
+* [Password Reset](https://docs.chirptoken.io/blackbird/2-quick-start-guide/8-reset)
 
 </details>
 
@@ -143,7 +147,7 @@ If you forget the Web UI password, you can reset it by accessing the gateway’s
 
 Gateways come with a standard warranty, covering manufacturing defects. Refer to the warranty terms here:
 
-* [Warranty Terms](https://test-docs.chirptoken.io/legal/terms-of-use#section-7-warranty-warranty-disclaimer).
+* [Warranty Terms](https://docs.chirptoken.io/legal/terms-of-use#section-7-warranty-warranty-disclaimer)
 
 </details>
 
@@ -153,7 +157,9 @@ Gateways come with a standard warranty, covering manufacturing defects. Refer to
 
 <summary>What wallet/extension should I use?</summary>
 
-For the best experience, we highly recommend using the Suiet wallet or the Sui wallet created via the seed phrase method for any operations on the Chirp platform.
+For the best experience, we highly recommend using the Suiet wallet or the Sui wallet created via the seed phrase method for any operations on the Chirp platform. Refer to the wallets setup here:
+
+* [Sui wallet](../chirp-network/rewards/sui_wallet.md)
 
 </details>
 
@@ -163,7 +169,7 @@ For the best experience, we highly recommend using the Suiet wallet or the Sui w
 
 If your wallet is stolen, immediately secure your funds by restoring access using your recovery phrase or private key. Never share this information with anyone. Follow the detailed security instructions provided here:
 
-* [Wallet Security](https://community.trustwallet.com/t/backup-your-recovery-phrase-or-private-key/81996).
+* [Wallet Security](https://community.trustwallet.com/t/backup-your-recovery-phrase-or-private-key/81996)
 
 </details>
 
@@ -175,9 +181,11 @@ If you haven’t received your rewards, check the following:
 
 1. Ensure your wallet is correctly connected to the platform.
 2. Confirm that your gateway is online and meets the reward criteria.
-3. Check for any system delays or updates. Refer to the rewards troubleshooting guide here:
+3. Check for any system delays or updates.&#x20;
 
-* [Rewards Guide](https://test-docs.chirptoken.io/chirp-network/rewards/claim_rewards).
+Refer to the rewards troubleshooting guide here:
+
+* [Rewards Guide](https://docs.chirptoken.io/chirp-network/rewards/claim_rewards)
 
 </details>
 
@@ -187,7 +195,7 @@ If you haven’t received your rewards, check the following:
 
 You can view and manage your NFTs on the Chirp NFT dashboard:
 
-* [NFT Dashboard](https://app.chirpwireless.io/redeem-nft/orders).
+* [NFT Dashboard](https://app.chirpwireless.io/redeem-nft/orders)
 
 </details>
 
@@ -197,7 +205,7 @@ You can view and manage your NFTs on the Chirp NFT dashboard:
 
 Data Credits are a prepaid token used to pay for network usage, such as connecting to LTE. Learn more here:
 
-* [Data Credits Info](https://test-docs.chirptoken.io/blackbird/4-data-credits).
+* [Data Credits](https://docs.chirptoken.io/blackbird/4-data-credits)
 
 </details>
 
@@ -208,10 +216,11 @@ Data Credits are a prepaid token used to pay for network usage, such as connecti
 Check the following:
 
 1. Ensure your wallet is properly connected.
-2. Verify that you’ve claimed your rewards.
-3. Confirm that the tokens are supported by your wallet. Follow these steps for troubleshooting:
+2. Check if your current network is Mainnet.
 
-* [Token Troubleshooting](https://test-docs.chirptoken.io/chirp-network/rewards/kage#steps-to-connect-your-wallet-and-withdraw-tokens).
+Follow these steps for troubleshooting:
+
+* [Airdrop Rewards Claim](../chirp-network/rewards/airdrop.md)
 
 </details>
 
@@ -221,11 +230,11 @@ Check the following:
 
 To disconnect a wallet:
 
-1. Connect to the platform with your old wallet.
+1. Connect to the platform with your current wallet.
 2. Click "Disconnect" in the "[Rewards Wallet](https://app.chirpwireless.io/rewards-wallet)" section.
 3. Connect your new wallet.
 
-⚠ Important: Without access to the old wallet, you won’t be able to unlink it. In this case, you will need to create a new account.
+**Important: Without access to the current wallet, you won’t be able to unlink it. In this case, you will need to create a new account.**
 
 </details>
 
@@ -265,9 +274,11 @@ If you're having trouble logging into the dashboard:
 
 1. Ensure you're using the correct login credentials.
 2. Reset your password if necessary.
-3. Clear your browser cache or try accessing the dashboard from a different device. For further steps, refer to:
+3. Clear your browser cache or try accessing the dashboard from a different device.&#x20;
 
-* [Login Help](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/5-registration#step-nine-log-into-your-chirps-dashboard-account).
+For further steps, refer to:
+
+* [Login](https://docs.chirptoken.io/blackbird/2-quick-start-guide/5-registration#step-nine-log-into-your-chirps-dashboard-account)
 
 </details>
 
@@ -277,7 +288,8 @@ If you're having trouble logging into the dashboard:
 
 You can report bugs or issues by joining the Chirp community or reaching out to support. Provide as much detail as possible, including screenshots or error messages. Start here:
 
-* [Support Page](https://discord.com/invite/zxAaVQgFvs).
+* [Support Page](https://discord.com/invite/zxAaVQgFvs)
+* [help@chirpwireless.io](mailto:help@chirpwireless.io)
 
 </details>
 
@@ -287,7 +299,7 @@ You can report bugs or issues by joining the Chirp community or reaching out to 
 
 Verification requests are usually processed within a few business days, depending on the volume of applications. Ensure all required documents are submitted correctly:
 
-* [Verification Steps](https://test-docs.chirptoken.io/blackbird/2-quick-start-guide/7-verification).
+* [Verification Steps](https://docs.chirptoken.io/blackbird/2-quick-start-guide/7-verification)
 
 </details>
 
@@ -298,9 +310,11 @@ Verification requests are usually processed within a few business days, dependin
 If you're having issues adding a wallet:
 
 1. Ensure your wallet is compatible with Chirp (e.g., Sui Wallet).
-2. Check your wallet connection and permissions. Follow this guide for more help:
+2. Check your wallet connection and permissions.&#x20;
 
-* [Wallet Guide](https://test-docs.chirptoken.io/chirp-network/rewards/sui_wallet#sui-wallet-connection-to-chirp).
+Follow this guide for more help:
+
+* [Wallet Guide](https://docs.chirptoken.io/chirp-network/rewards/sui_wallet#sui-wallet-connection-to-chirp)
 
 </details>
 
@@ -308,9 +322,7 @@ If you're having issues adding a wallet:
 
 <summary>How can I delete my account?</summary>
 
-To delete your account, contact Chirp support or follow the termination process outlined here:
-
-* [Account Termination](https://test-docs.chirptoken.io/legal/terms-of-use#section-10-termination).
+To delete your account, navigate to Settings -> Profile and click Delete Account button.
 
 </details>
 
@@ -431,3 +443,4 @@ We will make an announcement soon with details about which campaigns and the exa
 {% hint style="info" %}
 Didn't find the answer to your question? Please, email us at [help@chirpwireless.io](mailto:help@chirpwireless.io)
 {% endhint %}
+
