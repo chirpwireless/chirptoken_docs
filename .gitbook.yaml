@@ -5,8 +5,7 @@ root: ./
   summary: SUMMARY.md​
 
 redirects:
-  Chirp%20Network/Rewards/Kage%20-%20Wallet%20and%20Rewards%20Claim/kage: chirp-network/wallet/kage.md
-  chirp-network/rewards: chirp-network/wallet
+  Chirp%20Network/Rewards/Kage%20-%20Wallet%20and%20Rewards%20Claim/kage: chirp-network/rewards/kage.md
   Terms%20of%20Use: legal/terms-of-use.md
   Privacy%20Policy: legal/privacy-policy.md
   
