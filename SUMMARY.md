@@ -6,7 +6,7 @@
 
 * [Chirp's IoT Network](chirp-network/chirp-iot-network.md)
 * [Keepers](chirp-network/keepers.md)
-* [Rewards](chirp-network/rewards/README.md)
+* [Wallet](chirp-network/rewards/README.md)
   * [Sui Wallet](chirp-network/rewards/sui_wallet.md)
   * [Blackbird Miner Rewards Claim](chirp-network/rewards/claim_rewards.md)
   * [Airdrop Rewards Claim](chirp-network/rewards/airdrop.md)
