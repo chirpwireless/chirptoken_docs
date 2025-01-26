@@ -91,7 +91,7 @@ Learn how to optimize availability here:
 
 You can manage your gateway remotely through the Gateway Web UI. Remote management allows you to monitor and update settings without needing physical access. More information can be found here:
 
-* [Gateway Setup and Configuration](help-and-faq.md#gateway-setup-and-configuration)
+* [Gateway Registration](https://docs.chirptoken.io/blackbird/2-quick-start-guide/5-registration)
 
 </details>
 
@@ -127,7 +127,7 @@ Yes, third-party gateways can be connected if they are compatible with Chirp’s
 
 Yes, you can disable or adjust the LED settings via the Web UI or dashboard:
 
-* [Gateway Setup and Configuration](help-and-faq.md#gateway-setup-and-configuration)
+* [Gateway Registration](https://docs.chirptoken.io/blackbird/2-quick-start-guide/5-registration)
 
 </details>
 
@@ -185,7 +185,7 @@ If you haven’t received your rewards, check the following:
 
 Refer to the rewards troubleshooting guide here:
 
-* [Rewards Guide](https://docs.chirptoken.io/chirp-network/rewards/claim_rewards)
+* [Rewards Guide](../chirp-network/rewards/claim_rewards.md)
 
 </details>
 
@@ -314,7 +314,7 @@ If you're having issues adding a wallet:
 
 Follow this guide for more help:
 
-* [Wallet Guide](https://docs.chirptoken.io/chirp-network/rewards/sui_wallet#sui-wallet-connection-to-chirp)
+* [Wallet Guide](../chirp-network/rewards/sui_wallet.md#sui-wallet-connection-to-chirp)
 
 </details>
 
@@ -334,7 +334,7 @@ To delete your account, navigate to Settings -> Profile and click Delete Account
 
 Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/rewards-wallet](https://app.chirpwireless.io/rewards-wallet)
 
-Guide: [https://docs.chirptoken.io/chirp-network/rewards/kage](https://docs.chirptoken.io/chirp-network/rewards/kage)
+[Rewards Guide](../chirp-network/rewards/kage.md)
 
 </details>
 
@@ -346,7 +346,7 @@ After connecting your wallet, you need to sign a transaction in your wallet to c
 
 Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/rewards-wallet](https://app.chirpwireless.io/rewards-wallet)
 
-Guide: [https://docs.chirptoken.io/chirp-network/rewards/kage](https://docs.chirptoken.io/chirp-network/rewards/kage)
+[Rewards Guide](../chirp-network/rewards/kage.md)
 
 </details>
 
