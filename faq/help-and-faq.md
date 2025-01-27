@@ -436,7 +436,9 @@ Check this post for details about Kage eligibility, rewards, and more: [https://
 
 <summary>When will rewards for Kage, Leaderboard Campaign, Zealy, and Tropee be distributed?</summary>
 
-We will make an announcement soon with details about which campaigns and the exact timeline for rewards distribution. Stay tuned!
+All rewards have been distributed including Zealy, Tropee and all other campaigns.
+
+If you believe your rewards were missed, please complete this form for review [https://forms.gle/CpKMkqV1UxVqTQYe9](https://forms.gle/CpKMkqV1UxVqTQYe9)
 
 </details>
 
