@@ -443,6 +443,6 @@ If you believe your rewards were missed, please complete this form for review [h
 </details>
 
 {% hint style="info" %}
-Didn't find the answer to your question? Please, email us at [help@chirpwireless.io](mailto:help@chirpwireless.io)
+Still have questions? Feel free to reach out to us at [help@chirpwireless.io](mailto:help@chirpwireless.io). To help us assist you faster, please include <kbd>your role in the subject line</kbd> (e.g., <kbd>Investor</kbd>, <kbd>Player</kbd>, <kbd>Keeper</kbd>, or <kbd>Influencer</kbd>).
 {% endhint %}
 
