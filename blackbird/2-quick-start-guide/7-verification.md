@@ -24,6 +24,6 @@ When you tap on an event in the device log, you'll find detailed technical infor
 
 ## 5. Connect a Reward Wallet
 
-For receive the rewards connect your Sui wallet to Chirp platform. You can find it at [Rewards wallet ](https://app.chirpwireless.io/rewards-wallet)page. You can find the guide [here](../../chirp-network/rewards/sui_wallet.md).
+For receive the rewards connect your Sui wallet to Chirp platform. You can find it at Wallet page. You can find the guide [here](../../chirp-network/rewards/sui_wallet.md).
 
-![](../../.gitbook/assets/wallet.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -90,7 +90,7 @@ Next you need to connect Sui wallet for rewards (i.e. Sui or Suiet) to Chirp pla
 
 Select your wallet.
 
-![](../../.gitbook/assets/12_4.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Click "Next".
 

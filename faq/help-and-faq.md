@@ -231,7 +231,7 @@ Follow these steps for troubleshooting:
 To disconnect a wallet:
 
 1. Connect to the platform with your current wallet.
-2. Click "Disconnect" in the "[Rewards Wallet](https://app.chirpwireless.io/rewards-wallet)" section.
+2. Click "Disconnect" in the Wallet section.
 3. Connect your new wallet.
 
 **Important: Without access to the current wallet, you won’t be able to unlink it. In this case, you will need to create a new account.**
@@ -332,7 +332,9 @@ To delete your account, navigate to Settings -> Profile and click Delete Account
 
 <summary>How do I connect my wallet?</summary>
 
-Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/rewards-wallet](https://app.chirpwireless.io/rewards-wallet)
+Sui wallet connection is possible only through the desktop version by accessing:&#x20;
+
+[https://app.chirpwireless.io/wallet](https://app.chirpwireless.io/wallet)
 
 [Rewards Guide](../chirp-network/rewards/kage.md)
 
@@ -344,7 +346,7 @@ Sui wallet connection is possible only through the desktop version by accessing:
 
 After connecting your wallet, you need to sign a transaction in your wallet to confirm its binding to the site.
 
-Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/rewards-wallet](https://app.chirpwireless.io/rewards-wallet)
+Sui wallet connection is possible only through the desktop version by accessing: [https://app.chirpwireless.io/wallet](https://app.chirpwireless.io/wallet)
 
 [Rewards Guide](../chirp-network/rewards/kage.md)
 
