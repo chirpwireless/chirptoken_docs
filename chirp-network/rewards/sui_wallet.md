@@ -8,8 +8,7 @@ Please bear in mind that currently Chirp platform supports these 4 Google chrome
 
 * [Suiet](https://chromewebstore.google.com/detail/suiet-sui-wallet/khpkpbbcccdmmclmpigdgddabeilkdpd)
 * [Sui Wallet](https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)
-* [Surf Wallet](https://chromewebstore.google.com/detail/surf-wallet/emeeapjkbcbpbpgaagfchmcgglmebnen)
-* [Nightly](https://chromewebstore.google.com/detail/nightly/fiikommddbeccaoicoejoniammnalkfa)
+* [Martian Sui Wallet](https://chromewebstore.google.com/detail/martian-aptos-sui-wallet/efbglgofoippbgcjepnhiblaibcnclgk)
 
 So choose one of them to be able to interact with the Chirp platform. If you already use other wallets or platforms for interacting with Sui blockchain - visit our guideline on how to export your seed phrase.
 
