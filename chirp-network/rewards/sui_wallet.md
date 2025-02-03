@@ -14,13 +14,13 @@ So choose one of them to be able to interact with the Chirp platform. If you alr
 
 To create a reward wallet, please install one of Google Chrome extension wallets for Sui blockchain (i.e. Sui wallet). After installation is complete, create your personal Sui wallet. You can create it with your Google account, but for improved security we recommend using a method with the “passphrase”.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When wallet is created check settings if the Mainnet selected.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Sui Wallet Connection to Chirp
 
@@ -32,7 +32,7 @@ Select a wallet extension you have installed.
 
 Next you need to choose the correct wallet address and click Connect.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Confirm wallet by clicking the Save wallet address button.
 

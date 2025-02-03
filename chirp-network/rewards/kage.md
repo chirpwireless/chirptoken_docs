@@ -22,17 +22,17 @@ To claim your Kage rewards, you need to connect your Sui wallet to the Chirp pla
 
 ### 3. Connect your Sui wallet
 
-* Once logged in, go to [**Rewards Wallet**](https://app.chirpwireless.io/rewards-wallet) from the side menu.
+* Once logged in, go to Wallet from the side menu.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * Click the **"Connect wallet"** button.
 
-![](../../.gitbook/assets/3_Settings_Reward_Wallet.png)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * You’ll be shown a range of wallets. Please choose the one that suits you. We recommend Sui and Suiet wallets. Then, confirm sharing your wallet address in the wallet app.
 
-![](../../.gitbook/assets/4_Sui_wallets.png)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 After this, you should see a message confirming that the wallet was successfully added. Next, you need to verify it. You will be redirected to Sui, where you should press the **"Sign"** button. Once this is done, the wallet will be added to your account on the Chirp platform and Kage game.
 
