@@ -37,7 +37,7 @@ This guide explains how to back up your seed phrase and why it's important to st
 
 **Source:** [Trust Wallet: How to Back Up Your Recovery Phrase](https://community.trustwallet.com/t/backup-your-recovery-phrase-or-private-key/81996)
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 ![](../../.gitbook/assets/image2.png)
 

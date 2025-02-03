@@ -98,7 +98,7 @@ Click "Next".
 
 _Note: You can also connect reward wallet at_ [_Rewards wallet_](https://app.chirpwireless.io/rewards-wallet) _page._
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## Step Thirteen (Submit Pictures of the Gateway and its Installation)
 

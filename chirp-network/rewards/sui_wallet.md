@@ -4,25 +4,32 @@ To interact with the Chirp platform and be able to earn and further claim CHIRP 
 
 ## Sui Wallet Creation
 
-Please bear in mind that currently Chirp platform supports these 4 Google chrome wallet extensions - Sui, Suiet, Ethos, and Martian Sui. So choose one of them to be able to interact with the Chirp platform. If you already use other wallets or platforms for interacting with Sui blockchain - visit our guideline on how to export your seed phrase.
+Please bear in mind that currently Chirp platform supports these 4 Google chrome wallet extensions:
+
+* [Suiet](https://chromewebstore.google.com/detail/suiet-sui-wallet/khpkpbbcccdmmclmpigdgddabeilkdpd)
+* [Sui Wallet](https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)
+* [Surf Wallet](https://chromewebstore.google.com/detail/surf-wallet/emeeapjkbcbpbpgaagfchmcgglmebnen)
+* [Nightly](https://chromewebstore.google.com/detail/nightly/fiikommddbeccaoicoejoniammnalkfa)
+
+So choose one of them to be able to interact with the Chirp platform. If you already use other wallets or platforms for interacting with Sui blockchain - visit our guideline on how to export your seed phrase.
 
 To create a reward wallet, please install one of 4 Google Chrome extension wallets for Sui blockchain (i.e. Sui wallet). After installation is complete, create your personal Sui wallet. You can create it with your Google account, but for improved security we recommend using a method with the “passphrase”.
 
-![](<../../.gitbook/assets/1 (3).png>)
+hen wallet is created check if the Mainnet is selected
 
-When wallet is created check if the Mainnet is selected
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/1_1.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Sui Wallet Connection to Chirp
 
 When your Sui wallet is set up please navigate to [https://app.chirpwireless.io](https://app.chirpwireless.io). Sign up if you are new to Chirp or sign in into your Chirp account. After, go to the Settings section in the menu, choose [Rewards wallet](https://app.chirpwireless.io/rewards-wallet) and click on Connect wallet button.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
 Select a wallet extension you have installed.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Next you need to choose the correct wallet address and click Connect.
 
@@ -30,15 +37,15 @@ Next you need to choose the correct wallet address and click Connect.
 
 Confirm wallet by clicking the Save wallet address button.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 To verify a reward wallet, you need to sign message with your wallet, click Sign.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 After that your rewards wallet is set and verified.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Adding SUI to Your Wallet
 
