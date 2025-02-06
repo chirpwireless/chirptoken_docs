@@ -4,8 +4,9 @@
 
 ## 🌐 Chirp Network
 
-* [Chirp's IoT Network](chirp-network/chirp-iot-network.md)
+* [Chirp's DePIN Network](chirp-network/chirp-iot-network.md)
 * [Keepers](chirp-network/keepers.md)
+* [Data Hunters](chirp-network/data-hunters.md)
 * [Wallet](chirp-network/rewards/README.md)
   * [Sui Wallet](chirp-network/rewards/sui_wallet.md)
   * [Blackbird Miner Rewards Claim](chirp-network/rewards/claim_rewards.md)
@@ -15,7 +16,7 @@
 
 ## ⛏️ Blackbird
 
-* [Overview](blackbird/blackbird.md)
+* [Blackbird](blackbird/blackbird.md)
 * [Safety and Precautions](blackbird/1-safety/README.md)
   * [Health Considerations](blackbird/1-safety/health.md)
 * [Connectivity Options](blackbird/connectivity.md)
