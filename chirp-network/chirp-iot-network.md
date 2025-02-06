@@ -1,6 +1,6 @@
 # Chirp's DePIN Network
 
-#### What is Chirp's DePIN Network?
+## What is Chirp's DePIN Network?
 
 Chirp is a Decentralized Physical Infrastructure Network (DePIN) designed to unify the fragmented IoT landscape by enabling seamless connectivity between devices across multiple radio standards. Unlike traditional, centralized IoT networks, Chirp is community-powered, rewarding users for expanding coverage, providing real-world data, and contributing to a geolocation database.
 

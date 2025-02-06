@@ -1,6 +1,6 @@
 # Keepers
 
-#### Who Are Keepers?
+## Who Are Keepers?
 
 Keepers are the backbone of Chirp’s Decentralized Physical Infrastructure Network (DePIN). They are individuals or businesses that deploy and maintain Blackbird gateways, expanding Chirp’s global IoT coverage while earning CHIRP tokens as rewards.
 

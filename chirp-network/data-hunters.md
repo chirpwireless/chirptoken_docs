@@ -1,6 +1,6 @@
 # Data Hunters
 
-#### Who Are Data Hunters?
+## Who Are Data Hunters?
 
 Data Hunters are Kage players who contribute to Chirp’s Decentralized Physical Infrastructure Network (DePIN) by scanning and mapping wireless networks. As they move through cities and buildings, Data Hunters detect Wi-Fi, Bluetooth, and cellular signals, helping build Chirp’s decentralized geolocation database.
 
