@@ -13,6 +13,7 @@
   * [Airdrop Rewards Claim](chirp-network/rewards/airdrop.md)
   * [Kage - Wallet and Rewards Claim](chirp-network/rewards/kage.md)
   * [Ledger Wallet and Rewards Claim](chirp-network/rewards/ledger.md)
+  * [Claimable Balance](chirp-network/rewards/claimable-balance.md)
 
 ## ⛏️ Blackbird
 
