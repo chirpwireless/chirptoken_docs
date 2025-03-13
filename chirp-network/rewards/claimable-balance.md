@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Claimable Balance
 
 ## Chirp Token Locking System Explained
