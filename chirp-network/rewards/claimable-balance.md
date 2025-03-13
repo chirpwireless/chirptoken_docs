@@ -67,7 +67,7 @@ The chart shows:
 
 If you hover over the graph, you can see the details of the received reward for the epoch. The Penalty amount is the amount of penalty withheld when you write off an amount greater than the amount in Claimable.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2KP7DSPVso36wsfSWRUsS-UniFN2reTg50ALJ32pSs3YIRb_noYY_QFPvUep6tRtUklwIOvdM3L4F1fdiSoveb6VT-87x3yNNYmSfDlgFWV0bf4FPbTLqgWlEx7orO6GLEZoIyA?key=9n9SNI9ScRu_DDmN8YfxlVCA)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2KP7DSPVso36wsfSWRUsS-UniFN2reTg50ALJ32pSs3YIRb_noYY_QFPvUep6tRtUklwIOvdM3L4F1fdiSoveb6VT-87x3yNNYmSfDlgFWV0bf4FPbTLqgWlEx7orO6GLEZoIyA?key=9n9SNI9ScRu_DDmN8YfxlVCA" alt="" data-size="original">
 
 Click on the **Claim Rewards** button to сlaim the reward.
 
@@ -79,10 +79,8 @@ You will see the Penalty Amount, the transaction fee, and the total amount of th
 
 Click on the **Continue** button.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdmWj5CfHLU60iiAvZKjBho-ykNYeh3PeOMAs_wQpG0_-J3yNnvCty9mgV894XW4RS2xzdXxeiBnkUQc7W6tR4Sz2sZ-NyoHk8D-IXRsOZPUfBDtOFDB7H65XN4t4aPk9jQM8wp?key=9n9SNI9ScRu_DDmN8YfxlVCA)
+<div align="left"><figure><img src="../../.gitbook/assets/1 (1).jpg" alt="" width="267"><figcaption></figcaption></figure></div>
 
 Verify the data. Click the **Claim n CHIRP** button.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe9HI92yY8l4luPUA6zKrkYz7a772fhqF5XOB1KWpdyo6bcWLtu0TQikvERgulsF6k5NY9xaqI3tUYmZx4jaVQKFxcOFlpvQZGIbBtLVtc8AQn1F0dhY8EDLTf6mrxPK3Rh0msnww?key=9n9SNI9ScRu_DDmN8YfxlVCA)
-
-\
+![](<../../.gitbook/assets/2 (2).jpg>)\
