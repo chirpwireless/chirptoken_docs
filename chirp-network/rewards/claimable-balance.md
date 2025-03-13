@@ -79,8 +79,8 @@ You will see the Penalty Amount, the transaction fee, and the total amount of th
 
 Click on the **Continue** button.
 
-<div align="left"><figure><img src="../../.gitbook/assets/1 (1).jpg" alt="" width="267"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Claim your reward.png" alt="" width="178"><figcaption></figcaption></figure></div>
 
 Verify the data. Click the **Claim n CHIRP** button.
 
-![](<../../.gitbook/assets/2 (2).jpg>)\
+<div align="left"><figure><img src="../../.gitbook/assets/Transfer confirmation.png" alt="" width="178"><figcaption></figcaption></figure></div>
