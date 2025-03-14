@@ -10,24 +10,33 @@ However, this does not mean you are losing your tokens. They gradually become av
 
 ### How Does It Work?
 
-When you earn rewards in Chirp tokens, they are unlocked gradually:
+Since rewards are distributed every epoch (every 2 days), the locking mechanism applies individually to each epoch’s payout. This means that after 3 months (45 epochs), you will be able to withdraw the first epoch’s reward without penalty, but the rewards from the subsequent epochs will still be subject to their own respective locking periods.
 
-* 40% are available immediately — you can withdraw them without any restrictions.
-* The remaining 60% are partially locked — if you withdraw them immediately, a locking penalty will be applied, meaning you will lose a portion of the tokens.
-
-**However, if you wait, the penalty decreases over time:**
+When you earn rewards in Chirp tokens, the entire amount is locked and gradually becomes available over time. If you decide to withdraw your tokens early, a penalty is applied, which decreases as time passes:
 
 * Immediately after distribution — 60% penalty, 40% available.
 * After 1 month — penalty reduced to 40%, 60% available.
 * After 2 months — penalty reduced to 26%, 74% available.
 * After 3 months (45 epochs) — the penalty for the first epoch is removed, allowing you to withdraw that portion without fees. Further rewards will also gradually unlock following the same logic.
 
-**This means you have two options:**
+If you choose to withdraw tokens before the penalty period ends, you permanently lose the penalized portion. However, if you wait, you will be able to claim the full amount without any reduction.
 
-* Withdraw tokens immediately but lose a portion due to the penalty.
-* Wait and gradually receive more tokens without any loss.
+#### Example:
 
-If you need funds now, you can withdraw the available 40% or accept the penalty for withdrawing the rest early. However, if you have the patience to wait, you will eventually gain full access to your tokens over time.
+You receive **100 CHIRP tokens** as a reward **every epoch**.
+
+* **Option 1: Immediate withdrawal**
+  * The full 100 CHIRP are locked, but you can withdraw early with a penalty.
+  * A 60% penalty applies, meaning you receive only 40 CHIRP, and 60 CHIRP are permanently lost.
+* **Option 2: Partial withdrawal after 1 month**
+  * The penalty decreases to 40%.
+  * If you withdraw now, you receive 60 CHIRP, and 40 CHIRP are lost.
+* **Option 3: Full withdrawal after 3 months**
+  * No penalty applies, and you can withdraw the full 100 CHIRP.
+
+Because rewards are distributed every epoch, each payout follows this schedule independently. For example, after 45 epochs, only the first epoch's reward is fully unlocked, while tokens from epochs 2–45 will still be subject to penalties.
+
+This system gives you flexibility: **withdraw early and accept a reduced amount or wait and receive the full reward.**
 
 ### What Are the Benefits?
 
@@ -75,7 +84,7 @@ Click on the **Claim Rewards** button to сlaim the reward.
 
 Enter the number of tokens you want to withdraw, or simply click the “Max without penalty” button to withdraw the maximum number of tokens you can claim without penalty to your wallet.&#x20;
 
-You will see the Penalty Amount, the transaction fee, and the total amount of the claimable reward. **Wait until epoch 45 and you will be able to debit the first epoch's reward without penalty.**&#x20;
+You will see the Penalty Amount, the transaction fee, and the total amount of the claimable reward. **Wait until epoch 45 and you will be able to debit the first epoch's reward without penalty, while later epochs will continue unlocking sequentially.**
 
 Click on the **Continue** button.
 
@@ -84,3 +93,7 @@ Click on the **Continue** button.
 Verify the data. Click the **Claim n CHIRP** button.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Transfer confirmation.png" alt="" width="178"><figcaption></figcaption></figure></div>
+
+## Kage Rewards Locking
+
+Rewards earned in **Kage** will follow the same locking logic, ensuring a stable distribution model. However, the **vesting schedule and unlocking periods may differ**, tailored to the game’s economic model and player engagement strategy. More details on Kage’s specific reward distribution schedule will be provided separately.
