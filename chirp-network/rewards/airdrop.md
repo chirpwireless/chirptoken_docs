@@ -37,9 +37,9 @@ This guide explains how to back up your seed phrase and why it's important to st
 
 **Source:** [Trust Wallet: How to Back Up Your Recovery Phrase](https://community.trustwallet.com/t/backup-your-recovery-phrase-or-private-key/81996)
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+<div align="left"><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="210"></div>
 
-![](../../.gitbook/assets/image2.png)
+<div align="left"><img src="../../.gitbook/assets/image2.png" alt="" width="210"></div>
 
 ## 2. How to Export a Seed Phrase from MetaMask
 
@@ -61,7 +61,7 @@ This guide explains how to back up your seed phrase and why it's important to st
 
 [MetaMask: How to Reveal Your Secret Recovery Phrase](https://support.metamask.io/ru/privacy-and-security/how-to-reveal-your-secret-recovery-phrase/)
 
-![](../../.gitbook/assets/How_to_reveal_your_secret_recovery_phrase_extension-9552f7c89602ead51456745749091a94.gif)
+<div align="left"><img src="../../.gitbook/assets/How_to_reveal_your_secret_recovery_phrase_extension-9552f7c89602ead51456745749091a94.gif" alt="" width="179"></div>
 
 ***
 
@@ -83,9 +83,9 @@ This guide explains how to back up your seed phrase and why it's important to st
 
     After a successful import, you may be asked to set up a new password to protect your wallet. Create a strong password and complete the setup.
 
-    ![](../../.gitbook/assets/sui_wallet_1.png)
+    <div align="left"><img src="../../.gitbook/assets/sui_wallet_1.png" alt="" width="179"></div>
 
-    ![](../../.gitbook/assets/sui_wallet_2.png)
+    <div align="left"><img src="../../.gitbook/assets/sui_wallet_2.png" alt="" width="175"></div>
 
 ***
 

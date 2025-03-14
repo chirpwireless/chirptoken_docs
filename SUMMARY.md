@@ -43,6 +43,7 @@
 * [Token Emissions](chirp-token/tokenemissions.md)
 * [Long Term Value](chirp-token/longtermvalue.md)
 * [Governance](chirp-token/governance.md)
+* [Claiming](chirp-token/claiming.md)
 * [Staking](chirp-token/staking.md)
 
 ## 📑 Legal
