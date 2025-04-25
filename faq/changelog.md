@@ -1,6 +1,47 @@
+---
+hidden: true
+---
+
 # Changelog
 
+<details>
 
+<summary>Release Name</summary>
+
+## New Features <a href="#new-features" id="new-features"></a>
+
+## Staking <a href="#staking" id="staking"></a>
+
+Staking itself helps $CHIRP token holders grow their balance by locking their tokens for a particular timeframe for extra rewards.
+
+This encourages long-term holding, increases token stability, and keeps users engaged as well. Features includes flexible reward rates, auto-reinvestment, and bonus perks.
+
+More details: [https://docs.chirptoken.io/chirp-token/staking](https://docs.chirptoken.io/chirp-token/staking)
+
+## Rules Engine <a href="#rules-engine-dostupno-tolko-pod-ficha-flagom" id="rules-engine-dostupno-tolko-pod-ficha-flagom"></a>
+
+**Rules Engine** allows users to set up and run automated rules for device data. The rule engine will help automate tasks, make the platform more efficient, and improve how devices are managed. This is the first version, laying the foundation for future updates and improvements.
+
+## Notification Center <a href="#notification-center" id="notification-center"></a>
+
+The **Notification Center** is designed to help users stay informed about important events in the system. It ensures that critical alerts, important updates, and general information reach the right people at the right time.
+
+With this feature, users will:
+
+* **Receive notifications in real-time** when system events occur
+* **See notifications categorized by priority** (Critical, Important, Information)
+* **View all notifications** with timestamps.
+* **Filter notifications** by priority and date.
+* **Mark notifications as read** to track which messages they’ve already seen.
+* **Delete notifs** to remove unnecessary messages while keeping relevant ones.
+
+## Bug fixes <a href="#bug-fixes" id="bug-fixes"></a>
+
+Cannot paste DEVEUI correctly
+
+AI assistant locks function buttons
+
+</details>
 
 <details>
 
