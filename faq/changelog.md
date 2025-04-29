@@ -1,12 +1,8 @@
----
-hidden: true
----
-
 # Changelog
 
 <details>
 
-<summary>Release Name</summary>
+<summary>Release 1.0.0</summary>
 
 ## New Features <a href="#new-features" id="new-features"></a>
 
