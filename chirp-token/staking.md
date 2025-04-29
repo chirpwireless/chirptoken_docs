@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Staking
 
 ## CHIRP Staking: Earn More While You Hold
