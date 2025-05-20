@@ -40,19 +40,34 @@ After this, you should see a message confirming that the wallet was successfully
 
 ### 4. Check Claimable Rewards
 
-* After successfully connecting your wallet, go to the **User Board** page.
-* In the **General info** section, you’ll see the number of tokens available for claiming.
+After successfully connecting your wallet, go to the **User Board** page.
+
+In the **General info** section, you’ll see the number of tokens available for claiming.
 
 ![](../../.gitbook/assets/6_Available_rewards.png)
 
-### 5. Withdraw tokens
+### 5. Withdraw tokens: Data Credits (DCs) and Locking
 
-* Before withdrawing tokens, please note that a small amount of Sui is required for withdrawals from both the Chirp platform and your Sui wallet. Ensure you have enough tokens for the transaction.
-* To transfer your earned tokens to your Sui wallet, click the **“Claim reward”** button.
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7zV3aZjRR_L0bRcCok13T-JWdekJQhNVLqt9cynHMXVCrWT19b5Qv4AYSgCq4sec0o6Gasq_ro6HiXCh-n2htol6T6_5yCm-Yjq39d5AVZF0m5m_R0pb6Oz1Uf4WlbfUtQay2?key=vcvEbWweeE6B9apbG4UybQ)
 
-![](../../.gitbook/assets/7_Available_balance.png)
 
-* Enter the number of tokens you want to withdraw, or simply click the **“Max”** button to withdraw the maximum number of tokens to your wallet.
+
+Before withdrawing your CHIRP tokens earned in Kage, make sure your Sui wallet has a small amount of SUI to cover network transaction fees.&#x20;
+
+Claiming rewards also requires Data Credits, which are used to pay a small platform service fee. The fee is 1% of the CHIRP amount claimed, with a minimum of $0.10 and a maximum of $10.00, charged in Data Credits.
+
+Data Credits are used for various Chirp services like SIM top-ups, platform fees, and reward claims. They are non-refundable and non-transferable, with a fixed value of **$0.01 USD per one DC**.
+
+You can top up your Data Credits directly in your account settings using a card, PayPal, or cryptocurrency via NowPayments. To manage or refill your balance, go to: [ https://app.chirpwireless.io/settings/data-credits](https://app.chirpwireless.io/settings/data-credits).&#x20;
+
+Be aware that your rewards are subject to a time-based locking mechanism. When rewards are first distributed they are fully locked, but are still available for early withdrawal with penalty applied.&#x20;
+
+Penalty decreases over time:
+
+* Immediately after distribution — 60% penalty, 40% available.
+* After 1 month — penalty reduced to 40%, 60% available.
+* After 2 months — penalty reduced to 26%, 74% available.
+* After 3 months (45 epochs) — the penalty is removed, allowing you to withdraw 100% of rewards. Further rewards will also gradually unlock following the same logic.
 
 ## What happens next?
 
