@@ -1,11 +1,6 @@
 ---
-cover: ../.gitbook/assets/Flight_Log_Opt.1.png
-coverY: 30.201342281879192
 layout:
   width: default
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -62,6 +57,8 @@ Cannot paste DEVEUI correctly
 AI assistant locks function buttons
 
 </details>
+
+<figure><img src="../.gitbook/assets/Flight_Log_Opt.1.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
