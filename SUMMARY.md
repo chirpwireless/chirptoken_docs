@@ -55,4 +55,5 @@
 
 * [Official Links](faq/official-links.md)
 * [Help and FAQ](faq/help-and-faq.md)
-* [Changelog](faq/changelog.md)
+* [Changelog](faq/changelog/README.md)
+  * [Flight log 1.0.1](faq/changelog/flight-log-1.0.1.md)
