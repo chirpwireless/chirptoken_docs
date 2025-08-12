@@ -17,11 +17,99 @@ layout:
 
 # Changelog
 
+## **Flight Log 1.0.1**
+
+### Major Changes
+
+#### Date device added
+
+* "Date added" is now visible on the device page under Settings for all registered devices.
+
+#### "+ Remain true for" for conditions
+
+* “+ Remain true for” button. This feature allows users to create rules that are triggered only if a condition (e.g., motion detection) remains true for a specified duration.
+* The "Remain true for" field is connected to specific conditions, and when the condition is deleted, the "Remain true for" field is also removed.
+* Notification resolved. To receive new notifications when a rule is triggered, the user must first complete all previously received notifications.
+
+\
+
+
+#### Improved Local Services Deployment
+
+* Enhanced the local deployment process for services to streamline development and testing.
+* Goal: Each service is now easily deployable locally with a single command, reducing setup complexity and improving development efficiency.
+
+#### &#x20;&#x20;
+
+#### &#x20;AI Assistant Integration
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTRiH4ZKTOvJ1E6Hwl21De_rxcQOrmoRWUIA6C-zg-aAZEnYTnfVD7g-sQvsHdf73_Vi-X1XpqB9PhExI5Fv67NSU36TJO3eOUHx9vJMZHfVHX7TMBEn84DXl8PdJTg3eCys6aXXi1XMSr1RAdCw?key=tNsubmjd5HuEL0rOWRh-uQ)
+
+* Introduced a new AI Assistant to provide intelligent support and data insights across the platforms.
+* The assistant can interact with users in chat form, leverage platform-specific contexts for better reasoning, and generate visual insights from device data.
+
+\
+
+
+### Minor Changes
+
+#### Remove signing on wallet deleting
+
+* Remove wallet. No signature is required to confirm the deletion of a wallet from a user's account.
+* Removed the requirement for signing when deleting a wallet.\
+  \
+
+* This update streamlines the process by eliminating the need for user authentication (e.g., signature) when removing a wallet from the system.
+
+\
+
+
+#### Add Metrics Tracking to Site and Application
+
+* Integrated metrics tracking into the site and application to monitor user behavior across various scenarios.\
+  \
+
+* Set up tracking for key actions: adding a device, adding a widget to the dashboard, and creating a rule.\
+  \
+
+* Metrics will help identify where users drop off, where they experience delays, and where they proceed smoothly.
+
+#### &#x20;
+
+#### Bug Fix: DC Balance Displays as Zero During Impersonation
+
+* Fixed a bug where the DC balance incorrectly displayed as zero during impersonation sessions.
+
+\
+
+
+#### Bug Fix: Unable to Top Up DC — All Payment Methods Failing
+
+* Fixed a critical issue preventing users from topping up Data Credits (DC) via the NowPayments integration.\
+  \
+
+
+#### Bug Fix: Wrong Error Message When Wallet Has 0 Chirp Tokens
+
+* Fixed an issue where users with a connected wallet and a 0 Chirp token balance received an incorrect error message.\
+  \
+
+
+#### UX Improvement: Subscription Page – Replaced Technical Parameters with User-Friendly Feature Names
+
+* Improved the Subscription page by replacing technical or configuration-style terms with clear, user-friendly feature names.\
+  \
+
+
+#### Bug Fix: Users Able to View Other Accounts’ Notifications via Search
+
+* Fixed a security issue where users could inadvertently access notifications belonging to other accounts by using the search function.
+
 <details>
 
 <summary>Flight Log 1.0.0</summary>
 
-<figure><img src="../../.gitbook/assets/Flight_Log_Opt.1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Flight_Log_Opt.1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## New Features <a href="#new-features" id="new-features"></a>
 
@@ -62,7 +150,7 @@ AI assistant locks function buttons
 
 <summary>Beta release 0.36.0</summary>
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (48).png>)
 
 ## Features
 
@@ -101,7 +189,7 @@ Removed share device function for device owner
 
 <summary>Beta release 0.35.0</summary>
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (47).png>)
 
 ### Features
 
@@ -162,7 +250,7 @@ _Tracker App_
 
 <summary>Beta release 0.34.0</summary>
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (46).png>)
 
 ### Features
 
@@ -197,7 +285,7 @@ _Leaderboard:_
 
 <summary>Beta release 0.33.0</summary>
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (45).png>)
 
 ### Features
 
@@ -222,7 +310,7 @@ _Leaderboard:_
 
 <summary>Beta release 0.32.0</summary>
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (44).png>)
 
 ### Features
 
@@ -277,7 +365,7 @@ Fixed app crash on Smart Plug device page
 
 <summary>Firmware release 1.0.234</summary>
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43).png>)
 
 ### Features
 
@@ -292,7 +380,7 @@ Fixed app crash on Smart Plug device page
 
 <summary>Beta release 0.31.0</summary>
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (42).png>)
 
 ### Features
 
@@ -334,7 +422,7 @@ Fixed app crash on Smart Plug device page
 
 <summary>New feature 0.30.1</summary>
 
-![](<../../.gitbook/assets/image (41).png>)
+![](<../.gitbook/assets/image (41).png>)
 
 New sign-up and sign-in features are available! You can now join Chirp with Google or Apple account.
 
@@ -344,7 +432,7 @@ New sign-up and sign-in features are available! You can now join Chirp with Goog
 
 <summary>Beta release 0.30.0</summary>
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (40).png>)
 
 ### Features
 
@@ -383,7 +471,7 @@ New sign-up and sign-in features are available! You can now join Chirp with Goog
 
 <summary>Hotfix 0.29.1</summary>
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (39).png>)
 
 ## Hotfixes
 
@@ -399,9 +487,9 @@ Redeem NFT page changes:
 
 <summary>Beta release 0.29.0</summary>
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (37).png>)
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (38).png>)
 
 ## Features
 
@@ -434,7 +522,7 @@ Redeem NFT page changes:
 
 <summary>Beta release 0.28.0</summary>
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 ## Features
 
@@ -491,7 +579,7 @@ _Firmware release 1.0.215_
 
 <summary>Beta release 0.27.0</summary>
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 ## Features
 
@@ -537,9 +625,9 @@ Typo in e-mail confirmation message
 
 <summary>Beta release 0.26.0</summary>
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32).png>)
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 ## Features
 
@@ -589,7 +677,7 @@ Style bug with the search-on-map field
 
 <summary>Beta release 0.25.0</summary>
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 ### Features
 
@@ -608,7 +696,7 @@ Mobile: Small zoom after any entry field change
 
 <summary>Beta release 0.24.0</summary>
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30).png>)
 
 ### Features
 
@@ -631,7 +719,7 @@ Fixed a bug with wrong date setting in calendar caused app crash
 
 <summary>Beta release 0.23.0</summary>
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (29).png>)
 
 ### Features
 
@@ -695,7 +783,7 @@ Non-lora GPS trackers now support displaying tracks on map at device page
 
 <summary>Beta release 0.21.0</summary>
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28).png>)
 
 ### Features
 
@@ -756,7 +844,7 @@ Fix search form for 4G devices models
 
 <summary>Beta release 0.20.0</summary>
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 ### Features
 
@@ -829,7 +917,7 @@ _User board:_\
 
 <summary>Alpha release 0.14.0</summary>
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 ### Features
 
@@ -858,7 +946,7 @@ Download logs were limited for a hundred events.
 
 <summary>Alpha release 0.13.0</summary>
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 ### Features
 
@@ -884,7 +972,7 @@ Shared device update returns 404
 
 <summary>Alpha release 0.12.0</summary>
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24).png>)
 
 ### Features
 
@@ -918,7 +1006,7 @@ AS923 LoRaWAN frequency fixed
 
 <summary>Alpha release 0.11.0</summary>
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22).png>)
 
 ### Features
 
@@ -1002,7 +1090,7 @@ Gateway
 
 <summary>Alpha release 0.9</summary>
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21).png>)
 
 ### Features
 
@@ -1047,7 +1135,7 @@ Infrastructure
 
 <summary>Alpha release 0.8</summary>
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 ### Features
 
@@ -1072,7 +1160,7 @@ Infrastructure
 
 <summary>Alpha release 0.75</summary>
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19).png>)
 
 ### Features
 
@@ -1090,7 +1178,7 @@ Infrastructure
 
 <summary>Alpha release 0.7</summary>
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 ### Features
 
@@ -1113,7 +1201,7 @@ Infrastructure
 
 <summary>Alpha release 0.6</summary>
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17).png>)
 
 ### Features
 
@@ -1130,7 +1218,7 @@ Infrastructure
 
 <summary>Alpha release 0.52</summary>
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 ### Features
 
@@ -1147,7 +1235,7 @@ Infrastructure
 
 <summary>Alpha release 0.5</summary>
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 ### Features
 
@@ -1165,7 +1253,7 @@ Infrastructure
 
 <summary>Alpha release 0.45</summary>
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14).png>)
 
 ### Features
 
@@ -1183,7 +1271,7 @@ Infrastructure
 
 <summary>Alpha release 0.4</summary>
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 ### Features
 
@@ -1199,7 +1287,7 @@ Infrastructure
 
 <summary>Alpha release 0.3</summary>
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 ### Features
 
@@ -1220,7 +1308,7 @@ Infrastructure
 
 <summary>Alpha release 0.2</summary>
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 ### Features
 
@@ -1239,7 +1327,7 @@ Infrastructure
 
 <summary>Alpha release 0.1</summary>
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ### Features
 
