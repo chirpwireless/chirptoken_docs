@@ -1,8 +1,32 @@
+---
+cover: ../.gitbook/assets/Flight_Log_Opt.1.png
+coverY: 30.201342281879192
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Changelog
 
 <details>
 
-<summary>Release 1.0.0</summary>
+<summary>Flight Log 1.0.0</summary>
+
+## &#x20;<a href="#new-features" id="new-features"></a>
 
 ## New Features <a href="#new-features" id="new-features"></a>
 
