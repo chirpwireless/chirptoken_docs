@@ -21,7 +21,7 @@ layout:
 
 <summary>Flight Log 1.0.0</summary>
 
-## &#x20;<a href="#new-features" id="new-features"></a>
+<figure><img src="../.gitbook/assets/Flight_Log_Opt.1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## New Features <a href="#new-features" id="new-features"></a>
 
@@ -57,8 +57,6 @@ Cannot paste DEVEUI correctly
 AI assistant locks function buttons
 
 </details>
-
-<figure><img src="../.gitbook/assets/Flight_Log_Opt.1.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
