@@ -19,9 +19,130 @@ layout:
 
 <details>
 
-<summary>Flight Log 2. Release 1.0.0</summary>
+<summary>Flight Log. Release 1.2.0</summary>
 
-<figure><img src="../.gitbook/assets/Flight_Log2_Opt.1a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Flight_Release_1.2.0.png" alt=""><figcaption></figcaption></figure>
+
+### Released features
+
+**Tank Distance Sensor Widget**\
+![](../.gitbook/assets/image_2025-09-05_15-36-10.png)
+
+* New Tank Distance Sensor Widget available on the dashboard.
+* Supports units with configured distance sensors.
+* Displays real-time updates from the sensor.
+* Shows “No data” when recent sensor readings are unavailable.
+
+
+
+**Soil Sensor Integration**\
+![](../.gitbook/assets/image_2025-09-05_15-38-37.png)
+
+* Soil Sensor Measurements: Added configuration support for soil sensor measurements.
+* Sensor Field Mapping:
+
+Field 1: Battery level.
+
+Field 2: ADC readings for soil moisture.
+
+
+
+**Custom Notification Frequency**\
+\
+![](<../.gitbook/assets/Custom notification frequency.png>)
+
+* Introduced Custom Notification Frequency settings.
+* Users can configure one-time or recurring notification intervals
+* Default setting is disabled until explicitly enabled by the user.
+
+
+
+**Rule Timer**\
+\
+![](<../.gitbook/assets/Rule timer (1).png>)
+
+* Introduced a Rule Timer that allows users to define when a rule is active.
+* Users can enable/disable the timer and configure detailed scheduling options:
+* Select start and end time for rule execution.
+* Set a start date for the rule to begin operating.
+* Choose specific days of the week when the rule should run.
+
+
+
+**Kage app (development ready – scheduled release Sep 17)**\
+
+
+<figure><img src="../.gitbook/assets/Screen_Boosters.png" alt=""><figcaption></figcaption></figure>
+
+* Scanner and Premium Pass Purchase System (Kage Store). Players can get Scanners with varying detection ranges and Premium Pass for access to higher rewards.
+* Virtual objects (Beacons) global placement.&#x20;
+
+- Beacons with CHIRP token rewards added, with bonuses in high-activity areas.
+- Beacons with Data Chips rewards added
+- Beacons search functionality ready. Basic search with radius 150 metres and Upgraded search with Scanners
+
+### Released enterprise use only features (closed alpha)
+
+**Personal Organization Creation on User Account**\
+![](../.gitbook/assets/organ.png)
+
+* Registration now automatically generates a personal org: {USER\_NAME}’s IoT.
+* Safe failure handling prevents orphaned accounts.
+* Enhanced error logging for smoother debugging.
+
+
+
+**SMS Notifications in Notification Center**
+
+<figure><img src="../.gitbook/assets/Notification_Center.png" alt=""><figcaption></figcaption></figure>
+
+* Ability to register & verify phone numbers for SMS alerts.
+* Users can toggle SMS notifications after verification.
+* Improved UI with validation & feedback during setup.\
+
+
+#### Subscription System
+
+<figure><img src="../.gitbook/assets/Subscription.png" alt=""><figcaption></figcaption></figure>
+
+* Stripe Integration: Implemented a comprehensive subscription system through Stripe, enabling users to purchase, renew and change subscription plans.
+* Tiered Access: Created a multi-tiered subscription model with different access levels (Starter, Pro, Business, Enterprise) providing varying device limits and feature sets.
+* Subscription Management: Added user interface for managing subscriptions, including plan upgrades/downgrades and renewal options.
+* Payment Processing: Integrated secure payment processing with support for multiple payment methods and currencies
+
+### Under development
+
+**Kage app**
+
+* Automatic Beacon Replacement: beacons reappear after being found.
+* Kage Map Functionality: real-time tracking of player activity.
+
+<figure><img src="../.gitbook/assets/kage map (1).png" alt=""><figcaption></figcaption></figure>
+
+* Hexagon Conquer Feature: territory-based gameplay layer.
+
+<figure><img src="../.gitbook/assets/hex kage.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Bug fixes & optimizations
+
+* AI Assistant: Fix Enter Key Improved input behavior in AI Assistant.
+* Gateway Status Fix: Brand-new gateways now show “Last seen – No data” instead of a date.
+* Device Log (Button Fix): Restored visibility of the “Download Log” button.
+* Image Upload Fix: Image uploads when adding a gateway/miner now work reliably without errors.
+* Rule Creation (Attribute Fix): All attributes are now displayed correctly when creating rules.
+* Devices Sharing Table Fix: Shared device list is now refreshed automatically upon deletion.
+* MCP Integration: Analyzed and prepared integration of Model Context Protocol (MCP) for smart home devices, mapping REST API to MCP standard.
+* Transaction Stability: Improved blockchain transaction processing with polling mechanism to prevent timeouts and ensure transaction completion.
+
+</details>
+
+<details>
+
+<summary>Flight Log. Release 1.1.0</summary>
+
+<figure><img src="../.gitbook/assets/Flight_Release_1.1.0.png" alt=""><figcaption></figcaption></figure>
 
 ### Major Changes
 
@@ -85,9 +206,9 @@ layout:
 
 <details>
 
-<summary>Flight Log 1. Release 1.0.0</summary>
+<summary>Flight Log. Release 1.0.0</summary>
 
-<figure><img src="../.gitbook/assets/Flight_Log_Opt.1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Flight_Release_1.0.0.png" alt=""><figcaption></figcaption></figure>
 
 ## New Features <a href="#new-features" id="new-features"></a>
 
