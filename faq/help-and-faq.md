@@ -63,7 +63,7 @@ Ensure you do not disconnect the gateway power during the update.
 
 <summary>Can I use my own SIM card?</summary>
 
-Gateway is already has SIM card installed. For using a SIM card, you need to activate it. Please, contact the [support@chirpwireless.io](mailto:support@chirpwireless.io) for assistance
+Gateway is already has SIM card installed. For using a SIM card, you need to activate it. Please, contact the [help@chirpwireless.io](mailto:help@chirpwireless.io) for assistance
 
 </details>
 
