@@ -28,19 +28,15 @@ Before You Begin: If you haven't set up a wallet on your Ledger device, follow i
 
 Open Sui app on Ledger
 
-{% embed url="https://drive.google.com/file/d/1yl-0RYDk7qFC7SyDza7puhEkuz8a82AL/view?usp=drive_link" %}
-
-Claim tokens with Suiet Wallet
-
-{% embed url="https://drive.google.com/file/d/1tS9jkIsJhRjrI9lqgrXGXtRg_l5342ns/view?usp=drive_link" %}
+{% file src="../../.gitbook/assets/ledger_open_sui (2).mp4" %}
 
 Claim tokens with Sui Wallet
 
-{% embed url="https://drive.google.com/file/d/10uPlVhkPsmohuqa6K3Hl65RK49aQJeKE/view?usp=drive_link" %}
+{% embed url="https://www.youtube.com/watch?v=lBs-cGY9JIk" %}
 
 Sign the transaction with Ledger
 
-{% embed url="https://drive.google.com/file/d/1S0nmi0gUK5VIM97Q0rr0kfEERNN9mTzo/view?usp=drive_link" %}
+{% file src="../../.gitbook/assets/video_1280.mp4" %}
 
 ## How to Export a Seed Phrase from Ledger
 
