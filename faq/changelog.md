@@ -19,6 +19,88 @@ layout:
 
 <details>
 
+<summary>Flight Log. Release 1.2.1</summary>
+
+<figure><img src="../.gitbook/assets/Flight_Release_1.2.1.png" alt=""><figcaption></figcaption></figure>
+
+### Released features
+
+#### Notification Menu
+
+<figure><img src="../.gitbook/assets/Notofications_Screenshot.png" alt=""><figcaption></figcaption></figure>
+
+* New notification menu accessible from the bottom-left corner.
+* Dropdown shows recent notifications with title, description, timestamp, and status.
+* Supports categories (Alerts, Warnings, Information, System, etc.) and filters (All, Unread, Unresolved, Critical).
+* Users can mark notifications as read (individually or all at once).
+* Rule notifications include status indicators: _New, Read, Resolved_.
+* Notifications also appear in the Notification card on the Overview page.
+
+***
+
+#### Device & Gateway Photo Uploads
+
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
+* Users can now upload up to 3 photos for devices and gateways (during creation or from the device/gateway page).
+* Uploaded photos are visible on the device page and when creating rules.
+* Added upload button with “+” icon and ability to view all photos in expanded info.
+* Photos can be deleted in settings (delete icon on hover, always visible on mobile).
+* Improved UX: entire device/gateway card can now be expanded or collapsed with a click.
+
+***
+
+#### Explorer Updates
+
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+
+* **TVL & Token Holders Widgets**
+  * New widgets showing Total Holders count and TVL ( total value locked which equals non-circulationg supply).
+  * Includes staked and lock-up pool details.
+* **Updated Token Circulation Widget**
+  * Displays both circulating and non-circulating token amounts.
+  * Non-circulating tokens are calculated as the difference between total supply and circulating supply.
+
+***
+
+### Bug fixes & optimizations&#x20;
+
+#### Notifications S**ervice Refactoring**
+
+* Split monolithic service into smaller, maintainable services.
+* Introduced explicit interfaces between layers for better testability.
+* Updated repository structure aligned with database tables.
+* Adjusted tests for new architecture.
+* Notification icon is now correctly displayed even with more than 10 notifications.
+* Corrected error message for expired verification codes.
+
+***
+
+#### UI/UX
+
+* **AI Agent Window Fix**: resolved overlapping with “Device is Beta” window.
+* **Gateway Label Fix**: removed incorrect “Not a miner” labels.
+* **Rules Action Fix**: actions now display correctly when adding multiple rules with OR operator.
+* **Docs Section Fix**: Docs section is now fully clickable.
+* **Boosters & Pass Titles Fix**: corrected alignment on the Kage page.
+
+***
+
+#### Platform & Transactions
+
+* **Rename Lockup Pool**: updated to _Community Vault_ across the platform.
+* **Data Credits Purchase Fix**: users can now buy Data Credits via Now Payments without errors.
+* **Gateway Submission Fix**: submission works correctly without server-side errors.
+* **Reward Claim Fix**: rewards can now be claimed without server issues.
+* **Error Message Fix**: corrected error message when adding gateways.
+* **Transaction Stability**: improved blockchain transaction processing with polling to prevent timeouts.
+
+</details>
+
+<details>
+
 <summary>Flight Log. Release 1.2.0</summary>
 
 <figure><img src="../.gitbook/assets/Flight_Release_1.2.0.png" alt=""><figcaption></figcaption></figure>
