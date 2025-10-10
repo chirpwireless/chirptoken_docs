@@ -4,7 +4,7 @@
 
 Kage transforms ordinary smartphones into active mapping tools that detect and analyze wireless signals in the environment — such as Wi-Fi, cellular, and BLE. These signals create a constantly evolving dataset that powers Chirp’s positioning and IoT solutions. The result is a living, crowd-sourced infrastructure capable of providing **location intelligence in places where GPS is unavailable, unreliable, or inefficient**.\
 \
-Since its launch, Kage has achieved **remarkable global adoption**. Starting **February of this year**, the community has scanned **over 4 billion networks worldwide** — a milestone that took traditional Web2 wardriving projects **more than 20 years** to reach.\
+Since its launch, Kage has achieved **remarkable global adoption**. in 8 months starting **February of of 2025**, the community has scanned **over 4 billion networks worldwide** — a milestone that took traditional Web2 wardriving projects **more than 20 years** to reach.\
 This exponential growth showcases the strength of Chirp’s **DePIN model**, where people collectively build real infrastructure, faster and more efficiently than any centralized effort.
 
 ### **How Data Hunters Contribute**
