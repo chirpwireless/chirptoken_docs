@@ -36,6 +36,13 @@
 * [Redeem NFT](blackbird/redeemnft.md)
 * [Sim Card](blackbird/simcard.md)
 
+## Kage
+
+* [What is Kage](kage/what-is-kage.md)
+* [Kage’s Place in Chirp’s DePIN Network](kage/kages-place-in-chirps-depin-network.md)
+* [Data Collection and Geolocation Mechanics](kage/data-collection-and-geolocation-mechanics.md)
+* [Wings of Chronos (WoC)](kage/wings-of-chronos-woc.md)
+
 ## 💰 CHIRP Token
 
 * [Official Links](chirp-token/official-links.md)
