@@ -42,6 +42,7 @@
 * [Kage’s Place in Chirp’s DePIN Network](kage/kages-place-in-chirps-depin-network.md)
 * [Data Collection and Geolocation Mechanics](kage/data-collection-and-geolocation-mechanics.md)
 * [Wings of Chronos (WoC)](kage/wings-of-chronos-woc.md)
+* [Download and Availability](kage/download-and-availability.md)
 
 ## 💰 CHIRP Token
 
