@@ -19,6 +19,114 @@ layout:
 
 <details>
 
+<summary>Flight Log. Release 2.0.0</summary>
+
+<figure><img src="../.gitbook/assets/Flight_Release_2.0.0.png" alt=""><figcaption></figcaption></figure>
+
+### Released features&#x20;
+
+#### Custom Dashboards
+
+<figure><img src="../.gitbook/assets/Снимок экрана 2025-10-22 091518.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Снимок экрана 2025-10-22 092256.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Dashboard_01b.png" alt=""><figcaption></figcaption></figure>
+
+* Introduced fully customizable dashboards, allowing users to create personalized data views and monitoring setups.&#x20;
+* Users can now design dashboards based on their specific workflows, device groups, or IoT environments.
+
+_Custom dashboards functionality enables better situational awareness, flexibility for enterprise monitoring, and simplified data-driven decision-making._
+
+*   **Key functionality:**
+
+    * Add, rearrange, and resize widgets to tailor data visualization.
+    * Rename or remove dashboards when no longer needed.\
+
+
+    #### Collapsible Menu
+
+<figure><img src="../.gitbook/assets/Dashboard_01c.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Dashboard_02.png" alt=""><figcaption></figcaption></figure>
+
+* Introduced a collapsible sidebar menu that enhances workspace usability:
+  * Menu can be minimized to a narrow icon strip or expanded on hover.
+  * Provides a cleaner, distraction-free view of dashboard data.
+  * Improves user navigation and available screen space.
+
+#### Device Photo Management & Direct Upload
+
+<figure><img src="../.gitbook/assets/Dashboard_03.png" alt=""><figcaption></figcaption></figure>
+
+* Added photo placeholders for devices without images, prompting users to upload visual context.
+* Users can upload up to three photos directly from the device page, without navigating to settings - making photo management quick and intuitive.
+* Photos can show not only the device itself but also its installation location or surrounding environment, making it easier to locate, service, or replace devices in the field.
+* Uploaded photos are visible on the device details page and available for reference when creating rules.
+
+_Improves traceability, maintenance efficiency, and overall asset management._
+
+***
+
+#### Automated Kage Beacon Payouts
+
+<figure><img src="../.gitbook/assets/Снимок экрана 2025-10-22 145354.png" alt=""><figcaption></figcaption></figure>
+
+* Implemented automated reward payouts for Kage Beacons at the start of each new epoch (every 2 days).
+* Rewards are now distributed automatically upon token minting, removing the need for manual payouts.
+* Improves consistency, accuracy, and speed of Kage reward distribution.
+
+#### New Kage Store Cards
+
+* Introduced new store cards for Premium Pass and Magnets.
+* Items can now be viewed and purchased directly from the Kage Store interface.\
+
+
+### Minor changes, Bug fixes & optimizations&#x20;
+
+#### Manager Console — Node Status Sync Fix
+
+* Statuses between Nodes and Gateways sections are now properly synchronized to prevent confusion.
+
+#### Rule Inactive Status Email Fix
+
+* Fixed an issue where notifications continued to be sent after a rule was set to inactive.
+* Inactive rules now correctly stop email notifications and mark notifications as resolved.
+
+#### Rule Deletion Email Fix
+
+* Fixed an issue where notifications continued to be sent after a rule was deleted.
+
+#### Token Price Update Fix
+
+* Fixed an issue where the CHIRP token price was not updating on the Explorer page.
+* Token prices now refresh correctly and display current values in real time.
+
+#### GPS Tracker URL Fix
+
+* The device URL now correctly links to the production environment.
+
+#### Widget Pinning Fix
+
+* Fixed an issue where widgets could not be pinned on device pages.
+
+#### Magnet Description Fix in Kage
+
+* Fixed missing “m/meter” in the Magnet description on the Kage page.
+
+#### Kage Store White Theme
+
+* Added a white theme for the Kage Store interface.
+
+#### Non-LoRa Device Creation Fix
+
+* Fixed an issue where users could not add non-LoRa devices if isEnabledDevicePhoto was disabled.
+* Users can now add non-LoRa devices regardless of the device photo setting.
+
+</details>
+
+<details>
+
 <summary>Flight Log. Release 1.2.1</summary>
 
 <figure><img src="../.gitbook/assets/Flight_Release_1.2.1.png" alt=""><figcaption></figcaption></figure>
