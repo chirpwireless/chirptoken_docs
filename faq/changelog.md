@@ -41,10 +41,11 @@ _Custom dashboards functionality enables better situational awareness, flexibili
 *   **Key functionality:**
 
     * Add, rearrange, and resize widgets to tailor data visualization.
-    * Rename or remove dashboards when no longer needed.\
+    * Rename or remove dashboards when no longer needed.
 
 
-    #### Collapsible Menu
+
+    #### Collapsible menu
 
 <figure><img src="../.gitbook/assets/Dashboard_01c.png" alt=""><figcaption></figcaption></figure>
 
