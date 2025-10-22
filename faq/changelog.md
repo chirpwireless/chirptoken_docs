@@ -41,7 +41,7 @@ _Custom dashboards functionality enables better situational awareness, flexibili
 *   **Key functionality:**
 
     * Add, rearrange, and resize widgets to tailor data visualization.
-    * Rename or remove dashboards when no longer needed.
+    * Remove dashboards when no longer needed.
 
 
 
@@ -84,10 +84,6 @@ _Improves traceability, maintenance efficiency, and overall asset management._
 
 
 ### Minor changes, Bug fixes & optimizations&#x20;
-
-#### Manager Console — Node Status Sync Fix
-
-* Statuses between Nodes and Gateways sections are now properly synchronized to prevent confusion.
 
 #### Rule Inactive Status Email Fix
 
