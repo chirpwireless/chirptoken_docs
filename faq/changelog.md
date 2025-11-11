@@ -94,13 +94,13 @@ _All organization users can view shared assets created by others, fostering stre
 * Fixed an issue requiring mandatory photo upload during new gateway creation.
 * Users can now proceed without uploading an image by clicking Continue, as intended.
 
-#### Kage App — New Features
+### Kage App
 
-**Magnet Functionality**
+#### New Features - **Magnet Functionality**
 
 Magnets increase the beacon claim distance from 10 meters to 50 meters, improving gameplay range and efficiency.
 
-#### Kage App — Updates, Improvements & Fixes
+#### Updates, Improvements & Fixes
 
 * **New Beacons placement**
 * **Beacon Pool replenishment**
@@ -110,8 +110,6 @@ Magnets increase the beacon claim distance from 10 meters to 50 meters, improvin
   * Fixed ANR error causing app freezes.
   * Resolved crash related to scanner functionality.
   * Added disabled status for `paymentState` to prevent misreporting.
-
-
 
 </details>
 
