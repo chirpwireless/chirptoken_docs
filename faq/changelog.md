@@ -19,6 +19,104 @@ layout:
 
 <details>
 
+<summary>Flight Log. Release 2.1.0</summary>
+
+<figure><img src="../.gitbook/assets/Flight_Release_2.1.0.png" alt=""><figcaption></figcaption></figure>
+
+This release introduces a major enterprise-grade update - the Organizations system powered by Attribute-Based Access Control (ABAC).\
+It provides a flexible permission model enabling multi-user management, granular access control, and collaborative device operations within enterprise environments.\
+This feature is primarily used by Chirp’s B2B clients and forms the foundation for Chirp’s upcoming white-label and large-scale deployment solutions.
+
+***
+
+### Released features
+
+#### Organizations (ABAC: Attribute-Based Access Control)
+
+<figure><img src="../.gitbook/assets/╨б╨╜╨╕╨╝╨╛╨║ ╤Н╨║╤А╨░╨╜╨░ 2025-11-10 ╨▓ 15.46.38.png" alt=""><figcaption></figcaption></figure>
+
+Added a new Organizations section, enabling platform owners and enterprise clients to manage teams and user access levels.
+
+Users can:
+
+* View their organization name and access level in the left menu.
+* Browse organizations they belong to.
+* Access Users and Settings pages for each organization.
+
+_ABAC system supports multi-user collaboration, ensuring secure and structured access management across projects. Organization names are automatically generated in the format “{UserName}’s IoT.”_
+
+#### User Management within Organizations
+
+<figure><img src="../.gitbook/assets/╨б╨╜╨╕╨╝╨╛╨║ ╤Н╨║╤А╨░╨╜╨░ 2025-11-10 ╨▓ 15.44.14.png" alt=""><figcaption></figcaption></figure>
+
+* Organization owners can now add, manage, and assign roles to users within their organization.
+* Roles and permissions include:
+
+<figure><img src="../.gitbook/assets/╨б╨╜╨╕╨╝╨╛╨║ ╤Н╨║╤А╨░╨╜╨░ 2025-11-10 ╨▓ 15.47.36.png" alt=""><figcaption></figcaption></figure>
+
+\
+\- Admin: Full access except deleting owner.\
+\
+\- Editor: Access to all features except Billing and User Management.\
+\
+\- Viewer: Read-only access across the platform.\
+
+
+* Owners can invite new users via email; invitations include an “Accept Invitation” link for direct onboarding.
+
+<figure><img src="../.gitbook/assets/╨С╨╡╨╖ ╨╜╨░╨╖╨▓╨░╨╜╨╕╤П.png" alt=""><figcaption></figcaption></figure>
+
+* Supports viewing invitation statuses and modifying or deleting user access.
+* Enables distributed team management for enterprise clients.
+
+#### Devices, SIM Cards, Rules & Notifications in Organizations
+
+<figure><img src="../.gitbook/assets/╨С╨╡╨╖ ╨╜╨░╨╖╨▓╨░╨╜╨╕╤П 2.png" alt=""><figcaption></figcaption></figure>
+
+* Added full organization-level management for devices, SIM cards, rules, and notifications.
+* Members with edit access can:
+
+&#x20;\- Add, edit, or delete devices, SIM cards, rules, and notifications within the organization.\
+&#x20;\- Upload, view, and delete device photos.
+
+_All organization users can view shared assets created by others, fostering streamlined collaboration and operational transparency within a shared workspace._
+
+### Backend & Platform Improvements
+
+#### Device Favorites Handler Refactor
+
+* Backend refactoring to separate favorite device management into a dedicated handler (UpdateDeviceFavoriteById).
+* Improves code clarity, modularity, and permission management flexibility.
+* Manual and integration tests updated to confirm proper behavior.
+
+#### Gateway Creation — Optional Photo Upload Fix
+
+* Fixed an issue requiring mandatory photo upload during new gateway creation.
+* Users can now proceed without uploading an image by clicking Continue, as intended.
+
+#### Kage App — New Features
+
+**Magnet Functionality**
+
+Magnets increase the beacon claim distance from 10 meters to 50 meters, improving gameplay range and efficiency.
+
+#### Kage App — Updates, Improvements & Fixes
+
+* **New Beacons placement**
+* **Beacon Pool replenishment**
+* **Increased Distance Accuracy:** improved beacon distance accuracy.
+* **Interface Update:** round duration information and new minimum threshold of 800k Data Chips updated&#x20;
+* **Bug Fixes:**
+  * Fixed ANR error causing app freezes.
+  * Resolved crash related to scanner functionality.
+  * Added disabled status for `paymentState` to prevent misreporting.
+
+
+
+</details>
+
+<details>
+
 <summary>Flight Log. Release 2.0.0</summary>
 
 <figure><img src="../.gitbook/assets/Flight_Release_2.0.0.png" alt=""><figcaption></figcaption></figure>
@@ -263,10 +361,9 @@ Field 2: ADC readings for soil moisture.
 
 * Scanner and Premium Pass Purchase System (Kage Store). Players can get Scanners with varying detection ranges and Premium Pass for access to higher rewards.
 * Virtual objects (Beacons) global placement.&#x20;
-
-- Beacons with CHIRP token rewards added, with bonuses in high-activity areas.
-- Beacons with Data Chips rewards added
-- Beacons search functionality ready. Basic search with radius 150 metres and Upgraded search with Scanners
+* Beacons with CHIRP token rewards added, with bonuses in high-activity areas.
+* Beacons with Data Chips rewards added
+* Beacons search functionality ready. Basic search with radius 150 metres and Upgraded search with Scanners
 
 ### Released enterprise use only features (closed alpha)
 
@@ -1629,3 +1726,4 @@ Infrastructure
 * Dark mode!
 
 </details>
+
