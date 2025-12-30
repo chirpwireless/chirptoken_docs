@@ -8,4 +8,4 @@ Unlike traditional geolocation systems that rely solely on GPS, Chirp leverages 
 
 To participate, Data Hunters walk, scan, and earn rewards in CHIRP tokens based on the quality and uniqueness of their collected data. Their contributions enhance Chirp’s IoT network, making it more robust for businesses, developers, and individuals who rely on precise location-based services.
 
-\
+<br>

@@ -19,6 +19,168 @@ layout:
 
 <details>
 
+<summary>Flight Log. Release 2.2.0</summary>
+
+<figure><img src="../.gitbook/assets/Flight_Release_2.2.0.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### **CHIRP 2.2.0 is one of the biggest releases of the year.**<br>
+
+This update introduces five major platform capabilities that move Chirp into a new phase of scalability — enabling larger deployments, stronger operational control, and a foundation for long-term commercial growth.
+
+Most importantly, **CHIRP 2.2.0 launches Chirp Billing and Subscriptions.** This is a major milestone for the ecosystem: revenue generated from real product usage is used to **buy back CHIRP on the open market**, directly linking platform adoption to sustainable token demand and long-term network growth.
+
+***
+
+### &#x20;Major Changes
+
+***
+
+### 1. Billing & Subscription Launch&#x20;
+
+**Billing and subscriptions are important because they convert real product usage into real market buying pressure.**\
+Every time a customer pays for connectivity, device management, or data services, those proceeds are used to **buy back the token on the open market**, which directly links adoption to token demand. That means growth in users and subscriptions doesn’t just grow the business — it **actively supports the token economy** by turning usage into ongoing buy pressure instead of relying on speculation.
+
+#### Subscription Management
+
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+
+A dedicated **Subscription** page is now live, giving users full access to Chirp’s plan and billing experience.
+
+* View all available pricing plans and plan features
+* Select a plan and complete checkout via our new **Stripe integration**
+* Instantly view current subscription status and plan details
+* Secure payment processing through a redirect to the Stripe portal
+* The currently active subscription is clearly shown
+* Subscription management (cancellation or plan changes) is handled directly in the Stripe portal
+* **Frictionless trial activation** — users can start a trial without providing credit card details
+
+#### Subscription Upgrade & Downgrade
+
+Subscription transitions are now clean, predictable, and usage-aware.
+
+* **Scheduled Downgrades:** Downgrades take effect at the end of the billing cycle
+* **Usage Validation:** The system checks current usage limits before confirming a downgrade
+* **Guided Downgrade Process:** Available downgrade plans display warnings if current usage exceeds limits
+* **Value-Maximizing Scheduling:** Downgrades are delayed until plan expiration, ensuring users receive full value
+* **Post-Expiry Access Control:** Expired subscriptions enter restricted mode with clear prompts for renewal
+
+***
+
+### 2. Free Plan + Access Continuity&#x20;
+
+#### Free Subscription Defaults
+
+Chirp now supports a full free subscription lifecycle.
+
+* New users are automatically assigned the default **free plan** at registration
+* Free plan details are now visible in the Billing / Subscription area
+* Users can upgrade to a paid plan at any time
+* Upon paid plan expiration, users are automatically downgraded to the free plan with feature restrictions applied
+
+#### Mining & Crypto Access
+
+We’ve preserved core network participation regardless of subscription tier.
+
+* **Keeper Mining Continuity:** Keeper miners continue mining on all plans — no gate quantity restrictions
+* **Crypto Section Access:** All Crypto sections remain fully accessible to Keepers and Players, independent of subscription status
+
+***
+
+### 3. Notifications: SMS Support + Add-On Credits&#x20;
+
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+
+#### SMS as a Notification Channel
+
+The Notification Center now includes **SMS Alerts**, enabling reliable real-time delivery for high-priority events.
+
+* SMS channel with phone verification flow
+* Phone number input + verification code interface
+* Toggle control for enabling/disabling SMS notifications
+* Error handling for invalid or expired verification codes
+* Duplicate phone number detection
+
+**How to enable SMS notifications**
+
+1. Go to **Notifications → Settings**
+2. Click **+ Add phone number** in the SMS section
+3. Enter your phone number and click Save
+4. Enter the verification code sent to your phone
+5. Toggle SMS notifications on/off as needed
+
+***
+
+#### SMS Add-On (Credit Purchase System)
+
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+
+SMS is now available as a **purchase-based add-on**, allowing users to buy SMS credits on demand.
+
+* Flexible quantity selection
+* Transparent per-SMS pricing and total cost before purchase
+* Secure payments via Stripe
+* Confirmation modal after successful checkout
+* Live SMS balance display in real-time
+
+**How to purchase SMS credits**
+
+1. Open **SMS Notification Settings**
+2. Choose the number of SMS credits to purchase
+3. Review the unit price + total cost
+4. Complete payment via Stripe
+5. Confirm purchase and view updated balance instantly
+
+***
+
+### 4. Organization Management Enhancements (New Capability)
+
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+
+Organization owners now have stronger control over governance and structure.
+
+* Organization owners can edit the organization name directly in **Organization Settings**
+* Ownership can be transferred to another member through the organization member list
+* The new owner receives an email invitation to accept ownership
+* Ownership transfer invitations expire after **7 days**
+* The new owner must re-authenticate to accept ownership
+* Once accepted, the new owner is automatically granted the **Editor role with full administrative rights**
+* All organization changes require explicit saving to take effect
+
+***
+
+### 5. Dashboard Hierarchy & Folder Structure (New Capability)
+
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
+Dashboards can now scale with your organization using a new two-level folder structure.
+
+* Dashboards can now be organized as **folders → dashboards**
+
+
+
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+
+* Folders can be created using the Settings icon next to **Add dashboard**
+* Dashboards can be added, modified, and deleted within this folder structure
+* Users can reorder dashboards and change hierarchy using the **Edit** button in the Dashboards menu
+* Widgets can be added to any dashboard regardless of folder placement
+
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### Minor Improvements
+
+#### Admin Contact Visibility
+
+* Permission tooltips now display **admin contact details**, helping users quickly request access or assistance when blocked by permissions
+
+</details>
+
+<details>
+
 <summary>Flight Log. Release 2.1.0</summary>
 
 <figure><img src="../.gitbook/assets/Flight_Release_2.1.0.png" alt=""><figcaption></figcaption></figure>
@@ -59,8 +221,7 @@ _ABAC system supports multi-user collaboration, ensuring secure and structured a
 \
 \- Editor: Access to all features except Billing and User Management.\
 \
-\- Viewer: Read-only access across the platform.\
-
+\- Viewer: Read-only access across the platform.<br>
 
 * Owners can invite new users via email; invitations include an “Accept Invitation” link for direct onboarding.
 
@@ -176,8 +337,7 @@ _Improves traceability, maintenance efficiency, and overall asset management._
 #### New Kage Store Cards
 
 * Introduced new store cards for Premium Pass and Magnets.
-* Items can now be viewed and purchased directly from the Kage Store interface.\
-
+* Items can now be viewed and purchased directly from the Kage Store interface.<br>
 
 ### Minor changes, Bug fixes & optimizations&#x20;
 
@@ -352,8 +512,7 @@ Field 2: ADC readings for soil moisture.
 
 
 
-**Kage app (development ready – scheduled release Sep 17)**\
-
+**Kage app (development ready – scheduled release Sep 17)**<br>
 
 <figure><img src="../.gitbook/assets/Screen_Boosters.png" alt=""><figcaption></figcaption></figure>
 
@@ -380,8 +539,7 @@ Field 2: ADC readings for soil moisture.
 
 * Ability to register & verify phone numbers for SMS alerts.
 * Users can toggle SMS notifications after verification.
-* Improved UI with validation & feedback during setup.\
-
+* Improved UI with validation & feedback during setup.<br>
 
 #### Subscription System
 

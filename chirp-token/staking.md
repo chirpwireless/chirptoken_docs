@@ -101,4 +101,4 @@ Early withdrawals come with a penalty, which is deducted from your staked amount
 
 **Get started now and enhance your CHIRP staking experience!**
 
-\
+<br>

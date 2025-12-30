@@ -10,4 +10,4 @@ Keepers play a crucial role in strengthening Chirp’s IoT ecosystem, ensuring r
 
 To participate, Keepers must deploy, register, and maintain their Blackbird gateways, ensuring they remain operational and strategically placed. In return, they receive CHIRP token rewards based on network demand, uptime, and contribution to the ecosystem.
 
-\
+<br>

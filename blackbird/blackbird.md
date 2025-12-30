@@ -80,4 +80,4 @@ Many DePIN networks have suffered from spoofed gateways, where fraudulent partic
 
 Chirp’s role in the sale is not shipment management but ensuring a secure and decentralized infrastructure by using NFTs as proof of ownership. This approach keeps the network trustworthy, decentralized, and resistant to exploitation.
 
-\
+<br>
