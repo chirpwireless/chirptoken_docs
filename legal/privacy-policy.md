@@ -8,13 +8,7 @@ This Privacy Policy is issued on behalf of Chirp Token, LLC, Suite 305 Griffith 
 
 ## Contact Us
 
-If you have any questions please contact us at any time via E-Mail to [info@chirptoken.io](mailto:info@chirptoken.io).
-
-We have appointed PLANIT // LEGAL Rechtsanwaltsgesellschaft mbH, Jungfernstieg 1, 20095 Hamburg, Germany as our EU-representative according to Art. 27 GDPR, who you can contact by email to [chirp\_eu\_representative@planit.legal](mailto:chirp_eu_representative@planit.legal), if you use our service from within the EU and have any privacy-related requests.
-
-We have appointed FlyingLawyers, Weinbergstrasse 22, 8001 Zürich, Switzerland, as our Swiss-Representative under of Art. 14 of the Swiss Data Protection Act (of 25 September 2020), who you can contact by email to [datarep@flyinglawyers.ch](mailto:datarep@flyinglawyers.ch), if you use our service from within the Swiss and have any privacy-related requests.
-
-We have appointed Formiti Data International Ltd, Grosvenor House, 11 St Pauls Square, Birmingham B3 1RB, United Kingdom, as our UK-Representative under Art. 27 of the UK General Data Protection Regulation, Retained Regulation (EU) 2016/679 (UK GDPR), who you can contact by email to [ukrepservice@formiti.com](mailto:ukrepservice@formiti.com), if you use our service from within the UK and have any privacy-related requests.
+If you have any privacy-related requests please contact us at any time via E-Mail to [info@chirptoken.io](mailto:info@chirptoken.io).
 
 ## 1. Purpose of this Privacy Policy
 
