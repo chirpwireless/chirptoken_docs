@@ -36,7 +36,7 @@ Claim tokens with Sui Wallet
 
 Sign the transaction with Ledger
 
-{% file src="../../.gitbook/assets/video_1280.mp4" %}
+{% file src="../../.gitbook/assets/ledger_sign_transaction.mp4" %}
 
 ## How to Export a Seed Phrase from Ledger
 

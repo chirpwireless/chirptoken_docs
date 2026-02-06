@@ -19,6 +19,106 @@ layout:
 
 <details>
 
+<summary>Flight Log. Release 2.2.1</summary>
+
+<figure><img src="../.gitbook/assets/Flight_Release_2.2.1.png" alt=""><figcaption></figcaption></figure>
+
+## Major Changes
+
+### Staking System Update
+
+* Introduced 6-month penalty-free withdrawal window (January 15, 2026 - July 15, 2026)
+* Added notification about upcoming 30% base staking rewards decrease effective January 15, 2027
+* Enhanced intro text clarity regarding reward calculation mechanics (variable rates based on total network stake and duration)
+
+#### Important Dates
+
+* January 15, 2026: Base staking rewards decrease by 30%
+* July 15, 2026: Penalty-free early withdrawal window ends
+
+#### Notes
+
+* Rewards continue to accrue continuously and require manual claiming
+* During the penalty-free period, users can withdraw accrued rewards without incurring standard early withdrawal penalties
+
+
+
+### Stripe Bank Card Integration
+
+#### Features
+
+* Card Linking: Users can now connect their bank card through Stripe to activate free trial subscriptions
+* Card Management: Users can view and manage linked cards in their Stripe account
+* Card Removal: Users have the option to unlink/remove their bank card at any time
+
+#### Security
+
+* All payment data is processed securely through Stripe's PCI-compliant infrastructure
+
+### DePIN Section Introduction&#x20;
+
+* Created new DePIN section in navigation
+* Moved Mining Board, Wallet, Kage, and Redeem NFT to DePIN section
+
+#### Improved
+
+* Simplified Overview page layout
+* Better organization of DePIN-related features
+* Cleaner navigation structure
+
+
+
+## Minor Changes
+
+### Stripe Subscription Management Fix
+
+#### Fixed
+
+* Users now have only one active order after upgrading subscription plan
+* Corrected order replacement logic to ensure previous subscription order is properly canceled when upgrading
+
+#### Improved
+
+* Enhanced subscription upgrade flow to properly transition between tariff plans
+* Improved Stripe order management to ensure clean subscription changes
+* Updated order lifecycle handling during tariff plan upgrades
+
+#### Technical Changes
+
+* Implemented proper order cancellation/replacement logic during subscription upgrades
+* Added validation to prevent duplicate active orders for same user
+
+<br>
+
+### Frontend Technical Debt Cleanup
+
+#### Refactored
+
+* Core UI components: Button, Tab, Text Field, Select, Typography
+* Improved consistency and maintainability across component library
+
+#### Removed
+
+* Deprecated legacy components
+* Unused translation keys
+
+#### Improved
+
+* Enhanced component reusability and type safety
+* Reduced bundle size
+* Cleaner component APIs
+
+<br>
+
+### Gateway Instructions Link Fix
+
+* Users can now easily access gateway Installation | Chirp DePIN documentation
+* Resolved issue where instruction button had no action
+
+</details>
+
+<details>
+
 <summary>Flight Log. Release 2.2.0</summary>
 
 <figure><img src="../.gitbook/assets/Flight_Release_2.2.0.png" alt=""><figcaption></figcaption></figure>
