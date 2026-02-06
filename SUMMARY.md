@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro to Chirp](README.md)
+* [Introduction to Chirp DePIN](README.md)
 
 ## 🌐 Chirp Network
 
