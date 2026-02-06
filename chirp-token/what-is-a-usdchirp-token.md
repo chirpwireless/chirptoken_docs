@@ -1,0 +1,5 @@
+# What is a $CHIRP token
+
+$CHIRP is the utility and incentive token that aligns participation across the Chirp DePIN ecosystem on the Sui blockchain. It underpins how the network grows, how contributors are rewarded, and how demand from real-world usage is translated into on-chain economic activity. As Chirp expands its infrastructure footprint and service layer—connectivity, device operations, automation, and geolocation—$CHIRP functions as the settlement asset that coordinates incentives between infrastructure operators, data contributors, and the businesses building on top of Chirp.
+
+A key mechanism tied to $CHIRP is the network’s Data Credits model. When businesses and developers purchase Data Credits to consume Chirp services, that purchase triggers an open-market buy of $CHIRP. This purchase flow is designed to create demand that links real network usage to the token, while contributors across the ecosystem can earn $CHIRP for expanding coverage and producing valuable network data. Together, these mechanisms support a demand-driven token economy where utility—not speculation—is the primary driver of token demand.

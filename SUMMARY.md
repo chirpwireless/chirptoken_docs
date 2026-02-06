@@ -46,6 +46,7 @@
 
 ## 💰 CHIRP Token
 
+* [What is a $CHIRP token](chirp-token/what-is-a-usdchirp-token.md)
 * [Official Links](chirp-token/official-links.md)
 * [Stakeholders](chirp-token/stakeholders.md)
 * [Token Emissions](chirp-token/tokenemissions.md)
